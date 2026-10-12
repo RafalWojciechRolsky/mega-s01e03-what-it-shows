@@ -1,0 +1,6063 @@
+[
+  {
+    "id": "R-41200",
+    "receivedAt": "2026-09-17T03:12:00+02:00",
+    "reporter": "—",
+    "subject": "—",
+    "source": "—",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "status: clean (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:00:00+02:00"
+  },
+  {
+    "id": "R-41201",
+    "receivedAt": "2026-09-17T03:19:00+02:00",
+    "reporter": "ana.lis@zorza-care.pl",
+    "subject": "Times moved by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:01:00+02:00"
+  },
+  {
+    "id": "R-41202",
+    "receivedAt": "2026-09-17T03:21:00+02:00",
+    "reporter": "ilona.vik+work@brightwell.org",
+    "subject": "Times moved by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:01:00+02:00"
+  },
+  {
+    "id": "R-41203",
+    "receivedAt": "2026-09-17T03:22:00+02:00",
+    "reporter": "mira.vik@zorza-care.pl",
+    "subject": "Times moved by an hour",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:01:00+02:00"
+  },
+  {
+    "id": "R-41204",
+    "receivedAt": "2026-09-17T03:24:00+02:00",
+    "reporter": "noah.baker@clinic-north.eu",
+    "subject": "Wrong times since last night",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:01:00+02:00"
+  },
+  {
+    "id": "R-41205",
+    "receivedAt": "2026-09-17T03:25:00+02:00",
+    "reporter": "tom.wolf@clinic-north.eu",
+    "subject": "Wrong times showing",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:01:00+02:00"
+  },
+  {
+    "id": "R-41206",
+    "receivedAt": "2026-09-17T03:27:00+02:00",
+    "reporter": "sven.park@clinic-north.eu",
+    "subject": "Times moved by an hour",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:01:00+02:00"
+  },
+  {
+    "id": "R-41208",
+    "receivedAt": "2026-09-17T03:27:00+02:00",
+    "reporter": "kasia.hart@oak-lane-care.co.uk",
+    "subject": "times are wrong!!",
+    "source": "email",
+    "product": "rota-6",
+    "meta": {},
+    "body": "Night shift tonight shows twice, once with nobody on it. App says error e-sync 04.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:02:00+02:00"
+  },
+  {
+    "id": "R-41209",
+    "receivedAt": "2026-09-17T03:27:00+02:00",
+    "reporter": "NOAH.WOLF@CLINIC-NORTH.EU",
+    "subject": "everything is an hour off",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:02:00+02:00"
+  },
+  {
+    "id": "R-41210",
+    "receivedAt": "2026-09-17T03:27:00+02:00",
+    "reporter": "Sven.stone@clinic-north.eu",
+    "subject": "Times moved by an hour",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:02:00+02:00"
+  },
+  {
+    "id": "R-41211",
+    "receivedAt": "2026-09-17T03:28:00+02:00",
+    "reporter": "NOAH.PARK@CASA-SOL.ES",
+    "subject": "Wrong times showing",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:02:00+02:00"
+  },
+  {
+    "id": "R-41212",
+    "receivedAt": "2026-09-17T03:31:00+02:00",
+    "reporter": "lea.diaz+work@zorza-care.pl",
+    "subject": "Off by 1h",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app. Screen showed E-UI-31 before it reloaded.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:03:00+02:00"
+  },
+  {
+    "id": "R-41213",
+    "receivedAt": "2026-09-17T03:31:00+02:00",
+    "reporter": "marek.vik@clinic-north.eu",
+    "subject": "Off by 1h",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "My Thursday shifts have moved by an hour. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:03:00+02:00"
+  },
+  {
+    "id": "R-41214",
+    "receivedAt": "2026-09-17T03:32:00+02:00",
+    "reporter": "Noah.lis@clinic-north.eu",
+    "subject": "Times moved by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:03:00+02:00"
+  },
+  {
+    "id": "R-41215",
+    "receivedAt": "2026-09-17T03:33:00+02:00",
+    "reporter": "mira.falk@metro-lund.se",
+    "subject": "Wrong times showing",
+    "source": "email",
+    "product": "tram-3",
+    "meta": {},
+    "body": "Platform screens are one hour behind the timetable. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:03:00+02:00"
+  },
+  {
+    "id": "R-41216",
+    "receivedAt": "2026-09-17T03:33:00+02:00",
+    "reporter": "Noah.vik@clinic-north.eu",
+    "subject": "Schedule shifted by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:04:00+02:00"
+  },
+  {
+    "id": "R-41217",
+    "receivedAt": "2026-09-17T03:33:00+02:00",
+    "reporter": "ilona.lis@brightwell.org",
+    "subject": "Wrong times showing",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:04:00+02:00"
+  },
+  {
+    "id": "R-41218",
+    "receivedAt": "2026-09-17T03:34:00+02:00",
+    "reporter": "tom.lis@clinic-north.eu",
+    "subject": "everything is an hour off",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:04:00+02:00"
+  },
+  {
+    "id": "R-41219",
+    "receivedAt": "2026-09-17T03:35:00+02:00",
+    "reporter": "Tom.falk@tramvaj-ostrava.cz",
+    "subject": "Wrong times showing",
+    "source": "boards-fw",
+    "product": "tram-3",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Platform screens are one hour behind the timetable.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:04:00+02:00"
+  },
+  {
+    "id": "R-41220",
+    "receivedAt": "2026-09-17T03:35:00+02:00",
+    "reporter": "ilona.wolf@brightwell.org",
+    "subject": "Off by 1h",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:04:00+02:00"
+  },
+  {
+    "id": "R-41221",
+    "receivedAt": "2026-09-17T03:35:00+02:00",
+    "reporter": "EVA.DIAZ@ZORZA-CARE.PL",
+    "subject": "Clock is wrong",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:05:00+02:00"
+  },
+  {
+    "id": "R-41222",
+    "receivedAt": "2026-09-17T03:37:00+02:00",
+    "reporter": "ana.ek+shifts@oak-lane-care.co.uk",
+    "subject": "URGENT times wrong",
+    "source": "email",
+    "product": "rota-6",
+    "meta": {},
+    "body": "Our home has the night shift listed twice since the update. App says error e-sync 04.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:05:00+02:00"
+  },
+  {
+    "id": "R-41223",
+    "receivedAt": "2026-09-17T03:37:00+02:00",
+    "reporter": "mira.berg@zorza-care.pl",
+    "subject": "Thursday is wrong by an hour",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:05:00+02:00"
+  },
+  {
+    "id": "R-41224",
+    "receivedAt": "2026-09-17T03:38:00+02:00",
+    "reporter": "ana.stone@brightwell.org",
+    "subject": "Clock is wrong",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. First the app said E-NET-03 (offline). App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:05:00+02:00"
+  },
+  {
+    "id": "R-41225",
+    "receivedAt": "2026-09-17T03:39:00+02:00",
+    "reporter": "marek.falk@ml-trafik.se",
+    "subject": "URGENT times wrong",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Everything on our screens is an hour late since last night. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:05:00+02:00"
+  },
+  {
+    "id": "R-41227",
+    "receivedAt": "2026-09-17T03:41:00+02:00",
+    "reporter": "ana.shah@brightwell.org",
+    "subject": "times are wrong!!",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:06:00+02:00"
+  },
+  {
+    "id": "R-41228",
+    "receivedAt": "2026-09-17T03:41:00+02:00",
+    "reporter": "ana.holm@zorza-care.pl",
+    "subject": "everything is an hour off",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. Screen showed E-UI-31 before it reloaded. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:06:00+02:00"
+  },
+  {
+    "id": "R-41229",
+    "receivedAt": "2026-09-17T03:42:00+02:00",
+    "reporter": "ilona.park@zorza-care.pl",
+    "subject": "Wrong times since last night",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:06:00+02:00"
+  },
+  {
+    "id": "R-41230",
+    "receivedAt": "2026-09-17T03:42:00+02:00",
+    "reporter": "omar.moss+work@clinic-north.eu",
+    "subject": "Wrong times since last night",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:06:00+02:00"
+  },
+  {
+    "id": "R-41231",
+    "receivedAt": "2026-09-17T03:43:00+02:00",
+    "reporter": "Eva.holm@brightwell.org",
+    "subject": "Off by 1h",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:08:00+02:00"
+  },
+  {
+    "id": "R-41232",
+    "receivedAt": "2026-09-17T03:43:00+02:00",
+    "reporter": "EVA.RUIZ@BRIGHTWELL.ORG",
+    "subject": "everything is an hour off",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:08:00+02:00"
+  },
+  {
+    "id": "R-41233",
+    "receivedAt": "2026-09-17T03:44:00+02:00",
+    "reporter": "piotr.baker+rota@clinic-north.eu",
+    "subject": "Times moved by an hour",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:08:00+02:00"
+  },
+  {
+    "id": "R-41234",
+    "receivedAt": "2026-09-17T03:44:00+02:00",
+    "reporter": "marek.baker@clinic-north.eu",
+    "subject": "Off by 1h",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:08:00+02:00"
+  },
+  {
+    "id": "R-41235",
+    "receivedAt": "2026-09-17T03:44:00+02:00",
+    "reporter": "tom.diaz@casa-sol.es",
+    "subject": "times are wrong!!",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:08:00+02:00"
+  },
+  {
+    "id": "R-41236",
+    "receivedAt": "2026-09-17T03:45:00+02:00",
+    "reporter": "noah.ruiz+shifts@tramvaj-ostrava.cz",
+    "subject": "Wrong times since last night",
+    "source": "email",
+    "product": "tram-3",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Boards say next tram in 61 minutes, it is here now.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:08:00+02:00"
+  },
+  {
+    "id": "R-41237",
+    "receivedAt": "2026-09-17T03:45:00+02:00",
+    "reporter": "sven.vik@casa-sol.es",
+    "subject": "everything is an hour off",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:08:00+02:00"
+  },
+  {
+    "id": "R-41238",
+    "receivedAt": "2026-09-17T03:45:00+02:00",
+    "reporter": "sven.stone@clinic-north.eu",
+    "subject": "Schedule shifted by an hour",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned. Screen showed E-UI-31 before it reloaded.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:08:00+02:00"
+  },
+  {
+    "id": "R-41239",
+    "receivedAt": "2026-09-17T03:46:00+02:00",
+    "reporter": "ana.holm@zorza-care.pl",
+    "subject": "URGENT times wrong",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "My Thursday shifts have moved by an hour. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:08:00+02:00"
+  },
+  {
+    "id": "R-41240",
+    "receivedAt": "2026-09-17T03:46:00+02:00",
+    "reporter": "Ana.diaz@brightwell.org",
+    "subject": "times are wrong!!",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:08:00+02:00"
+  },
+  {
+    "id": "R-41241",
+    "receivedAt": "2026-09-17T03:47:00+02:00",
+    "reporter": "noah.baker@clinic-north.eu",
+    "subject": "Clock is wrong",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:09:00+02:00"
+  },
+  {
+    "id": "R-41242",
+    "receivedAt": "2026-09-17T03:47:00+02:00",
+    "reporter": "tom.shah@casa-sol.es",
+    "subject": "Wrong times showing",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:09:00+02:00"
+  },
+  {
+    "id": "R-41243",
+    "receivedAt": "2026-09-17T03:48:00+02:00",
+    "reporter": "priya.reed@zorza-care.pl",
+    "subject": "everything is an hour off",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:09:00+02:00"
+  },
+  {
+    "id": "R-41244",
+    "receivedAt": "2026-09-17T03:48:00+02:00",
+    "reporter": "priya.lis+work@zorza-care.pl",
+    "subject": "URGENT times wrong",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:09:00+02:00"
+  },
+  {
+    "id": "R-41245",
+    "receivedAt": "2026-09-17T03:49:00+02:00",
+    "reporter": "marek.lis+work@clinic-north.eu",
+    "subject": "Times moved by an hour",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:10:00+02:00"
+  },
+  {
+    "id": "R-41246",
+    "receivedAt": "2026-09-17T03:49:00+02:00",
+    "reporter": "LEA.SHAH@ZORZA-CARE.PL",
+    "subject": "Wrong times showing",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:10:00+02:00"
+  },
+  {
+    "id": "R-41247",
+    "receivedAt": "2026-09-17T03:49:00+02:00",
+    "reporter": "ilona.kowal@zorza-care.pl",
+    "subject": "URGENT times wrong",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:10:00+02:00"
+  },
+  {
+    "id": "R-41248",
+    "receivedAt": "2026-09-17T03:49:00+02:00",
+    "reporter": "piotr.holm@clinic-north.eu",
+    "subject": "Times moved by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:10:00+02:00"
+  },
+  {
+    "id": "R-41249",
+    "receivedAt": "2026-09-17T03:50:00+02:00",
+    "reporter": "jonas.wolf@casa-sol.es",
+    "subject": "Off by 1h",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "My Thursday shifts have moved by an hour. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:10:00+02:00"
+  },
+  {
+    "id": "R-41250",
+    "receivedAt": "2026-09-17T03:50:00+02:00",
+    "reporter": "kasia.ruiz@metro-lund.se",
+    "subject": "everything is an hour off",
+    "source": "email",
+    "product": "tram-3",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Departure boards on line 4 show every tram an hour late.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:11:00+02:00"
+  },
+  {
+    "id": "R-41251",
+    "receivedAt": "2026-09-17T03:50:00+02:00",
+    "reporter": "omar.holm@casa-sol.es",
+    "subject": "Wrong times since last night",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:11:00+02:00"
+  },
+  {
+    "id": "R-41251",
+    "receivedAt": "2026-09-17T03:50:00+02:00",
+    "reporter": "omar.holm@casa-sol.es",
+    "subject": "Wrong times since last night",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:11:00+02:00"
+  },
+  {
+    "id": "R-41252",
+    "receivedAt": "2026-09-17T03:50:00+02:00",
+    "reporter": "mira.lis@zorza-care.pl",
+    "subject": "Wrong times since last night",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:11:00+02:00"
+  },
+  {
+    "id": "R-41253",
+    "receivedAt": "2026-09-17T03:50:00+02:00",
+    "reporter": "priya.vik+shifts@zorza-care.pl",
+    "subject": "Schedule shifted by an hour",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:11:00+02:00"
+  },
+  {
+    "id": "R-41254",
+    "receivedAt": "2026-09-17T03:51:00+02:00",
+    "reporter": "lea.ruiz@metro-lund.se",
+    "subject": "times are wrong!!",
+    "source": "email",
+    "product": "tram-3",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Departure boards on line 4 show every tram an hour late.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:12:00+02:00"
+  },
+  {
+    "id": "R-41255",
+    "receivedAt": "2026-09-17T03:51:00+02:00",
+    "reporter": "piotr.reed@clinic-north.eu",
+    "subject": "everything is an hour off",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:12:00+02:00"
+  },
+  {
+    "id": "R-41256",
+    "receivedAt": "2026-09-17T03:52:00+02:00",
+    "reporter": "sven.berg@casa-sol.es",
+    "subject": "everything is an hour off",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:12:00+02:00"
+  },
+  {
+    "id": "R-41257",
+    "receivedAt": "2026-09-17T03:52:00+02:00",
+    "reporter": "tom.lis@clinic-north.eu",
+    "subject": "Times moved by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:12:00+02:00"
+  },
+  {
+    "id": "R-41258",
+    "receivedAt": "2026-09-17T03:52:00+02:00",
+    "reporter": "eva.diaz@zorza-care.pl",
+    "subject": "times are wrong!!",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:12:00+02:00"
+  },
+  {
+    "id": "R-41259",
+    "receivedAt": "2026-09-17T03:53:00+02:00",
+    "reporter": "omar.stone@clinic-north.eu",
+    "subject": "Clock is wrong",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:13:00+02:00"
+  },
+  {
+    "id": "R-41260",
+    "receivedAt": "2026-09-17T03:53:00+02:00",
+    "reporter": "piotr.berg@clinic-north.eu",
+    "subject": "everything is an hour off",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:13:00+02:00"
+  },
+  {
+    "id": "R-41261",
+    "receivedAt": "2026-09-17T03:53:00+02:00",
+    "reporter": "mira.hart@oak-lane-care.co.uk",
+    "subject": "Thursday is wrong by an hour",
+    "source": "rota-sync",
+    "product": "rota-6",
+    "meta": {},
+    "body": "Two copies of the night rota, one hour apart. Which one is real? (E-SYNC-04)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:13:00+02:00"
+  },
+  {
+    "id": "R-41262",
+    "receivedAt": "2026-09-17T03:55:00+02:00",
+    "reporter": "ana.hart+work@metro-lund.se",
+    "subject": "Wrong times showing",
+    "source": "boards-fw",
+    "product": "tram-3",
+    "meta": {},
+    "body": "Boards say next tram in 61 minutes, it is here now. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:13:00+02:00"
+  },
+  {
+    "id": "R-41263",
+    "receivedAt": "2026-09-17T03:55:00+02:00",
+    "reporter": "marek.stone@casa-sol.es",
+    "subject": "Off by 1h",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:13:00+02:00"
+  },
+  {
+    "id": "R-41264",
+    "receivedAt": "2026-09-17T03:55:00+02:00",
+    "reporter": "Mira.falk@metro-lund.se",
+    "subject": "everything is an hour off",
+    "source": "email",
+    "product": "tram-3",
+    "meta": {},
+    "body": "Departure boards on line 4 show every tram an hour late. Screen showed E-UI-31 before it reloaded. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:14:00+02:00"
+  },
+  {
+    "id": "R-41265",
+    "receivedAt": "2026-09-17T03:56:00+02:00",
+    "reporter": "Marek.reed@clinic-north.eu",
+    "subject": "Schedule shifted by an hour",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:14:00+02:00"
+  },
+  {
+    "id": "R-41266",
+    "receivedAt": "2026-09-17T03:56:00+02:00",
+    "reporter": "omar.reed+work@casa-sol.es",
+    "subject": "Off by 1h",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:14:00+02:00"
+  },
+  {
+    "id": "R-41267",
+    "receivedAt": "2026-09-17T03:58:00+02:00",
+    "reporter": "tom.nowak@casa-sol.es",
+    "subject": "Off by 1h",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:14:00+02:00"
+  },
+  {
+    "id": "R-41268",
+    "receivedAt": "2026-09-17T03:58:00+02:00",
+    "reporter": "marek.reed+shifts@clinic-north.eu",
+    "subject": "Schedule shifted by an hour",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:15:00+02:00"
+  },
+  {
+    "id": "R-41269",
+    "receivedAt": "2026-09-17T03:58:00+02:00",
+    "reporter": "jonas.stone+shifts@clinic-north.eu",
+    "subject": "Times moved by an hour",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:15:00+02:00"
+  },
+  {
+    "id": "R-41270",
+    "receivedAt": "2026-09-17T03:59:00+02:00",
+    "reporter": "lea.berg+rota@brightwell.org",
+    "subject": "Off by 1h",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:15:00+02:00"
+  },
+  {
+    "id": "R-41271",
+    "receivedAt": "2026-09-17T04:00:00+02:00",
+    "reporter": "ana.wolf@zorza-care.pl",
+    "subject": "everything is an hour off",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:15:00+02:00"
+  },
+  {
+    "id": "R-41272",
+    "receivedAt": "2026-09-17T04:00:00+02:00",
+    "reporter": "Omar.shah@clinic-north.eu",
+    "subject": "Off by 1h",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:16:00+02:00"
+  },
+  {
+    "id": "R-41273",
+    "receivedAt": "2026-09-17T04:00:00+02:00",
+    "reporter": "omar.holm@casa-sol.es",
+    "subject": "URGENT times wrong",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:16:00+02:00"
+  },
+  {
+    "id": "R-41274",
+    "receivedAt": "2026-09-17T04:00:00+02:00",
+    "reporter": "tom.kowal@casa-sol.es",
+    "subject": "Off by 1h",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:16:00+02:00"
+  },
+  {
+    "id": "R-41275",
+    "receivedAt": "2026-09-17T04:00:00+02:00",
+    "reporter": "tom.reed+rota@clinic-north.eu",
+    "subject": "URGENT times wrong",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:16:00+02:00"
+  },
+  {
+    "id": "R-41276",
+    "receivedAt": "2026-09-17T04:00:00+02:00",
+    "reporter": "kasia.shah@brightwell.org",
+    "subject": "times are wrong!!",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:16:00+02:00"
+  },
+  {
+    "id": "R-41277",
+    "receivedAt": "2026-09-17T04:01:00+02:00",
+    "reporter": "priya.holm@zorza-care.pl",
+    "subject": "Wrong times showing",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:17:00+02:00"
+  },
+  {
+    "id": "R-41278",
+    "receivedAt": "2026-09-17T04:01:00+02:00",
+    "reporter": "tom.berg@clinic-north.eu",
+    "subject": "Times moved by an hour",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:17:00+02:00"
+  },
+  {
+    "id": "R-41279",
+    "receivedAt": "2026-09-17T04:02:00+02:00",
+    "reporter": "jonas.nowak@clinic-north.eu",
+    "subject": "Schedule shifted by an hour",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:17:00+02:00"
+  },
+  {
+    "id": "R-41280",
+    "receivedAt": "2026-09-17T04:03:00+02:00",
+    "reporter": "priya.wolf@zorza-care.pl",
+    "subject": "Thursday is wrong by an hour",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:17:00+02:00"
+  },
+  {
+    "id": "R-41281",
+    "receivedAt": "2026-09-17T04:03:00+02:00",
+    "reporter": "lea.baker@brightwell.org",
+    "subject": "Wrong times since last night",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "My Thursday shifts have moved by an hour. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:17:00+02:00"
+  },
+  {
+    "id": "R-41282",
+    "receivedAt": "2026-09-17T04:04:00+02:00",
+    "reporter": "sven.kowal+work@clinic-north.eu",
+    "subject": "Wrong times showing",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:18:00+02:00"
+  },
+  {
+    "id": "R-41283",
+    "receivedAt": "2026-09-17T04:04:00+02:00",
+    "reporter": "omar.shah+work@clinic-north.eu",
+    "subject": "Times moved by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:18:00+02:00"
+  },
+  {
+    "id": "R-41284",
+    "receivedAt": "2026-09-17T04:04:00+02:00",
+    "reporter": "LEA.STONE@ZORZA-CARE.PL",
+    "subject": "Off by 1h",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:18:00+02:00"
+  },
+  {
+    "id": "R-41285",
+    "receivedAt": "2026-09-17T04:05:00+02:00",
+    "reporter": "kasia.hart@oak-lane-care.co.uk",
+    "subject": "Off by 1h",
+    "source": "phone",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Phone, typed by the desk: caller says tonight is listed twice. App says error e-sync 04.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:18:00+02:00"
+  },
+  {
+    "id": "R-41286",
+    "receivedAt": "2026-09-17T04:05:00+02:00",
+    "reporter": "Marek.holm@clinic-north.eu",
+    "subject": "everything is an hour off",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:18:00+02:00"
+  },
+  {
+    "id": "R-41287",
+    "receivedAt": "2026-09-17T04:05:00+02:00",
+    "reporter": "mira.reed@zorza-care.pl",
+    "subject": "Wrong times showing",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:19:00+02:00"
+  },
+  {
+    "id": "R-41288",
+    "receivedAt": "2026-09-17T04:06:00+02:00",
+    "reporter": "Mira.hart@oak-lane-care.co.uk",
+    "subject": "Wrong times showing",
+    "source": "rota-sync",
+    "product": "rota-6",
+    "meta": {},
+    "body": "Our home has the night shift listed twice since the update. (E-SYNC-04)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:19:00+02:00"
+  },
+  {
+    "id": "R-41289",
+    "receivedAt": "2026-09-17T04:08:00+02:00",
+    "reporter": "marek.hart@tramvaj-ostrava.cz",
+    "subject": "Clock is wrong",
+    "source": "boards-fw",
+    "product": "tram-3",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Departure boards on line 4 show every tram an hour late.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:19:00+02:00"
+  },
+  {
+    "id": "R-41290",
+    "receivedAt": "2026-09-17T04:08:00+02:00",
+    "reporter": "eva.stone@zorza-care.pl",
+    "subject": "Off by 1h",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:19:00+02:00"
+  },
+  {
+    "id": "R-41291",
+    "receivedAt": "2026-09-17T04:09:00+02:00",
+    "reporter": "Piotr.vik@clinic-north.eu",
+    "subject": "everything is an hour off",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:20:00+02:00"
+  },
+  {
+    "id": "R-41292",
+    "receivedAt": "2026-09-17T04:09:00+02:00",
+    "reporter": "mira.vik@zorza-care.pl",
+    "subject": "Off by 1h",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:20:00+02:00"
+  },
+  {
+    "id": "R-41293",
+    "receivedAt": "2026-09-17T04:09:00+02:00",
+    "reporter": "ilona.stone@zorza-care.pl",
+    "subject": "everything is an hour off",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:20:00+02:00"
+  },
+  {
+    "id": "R-41294",
+    "receivedAt": "2026-09-17T04:10:00+02:00",
+    "reporter": "piotr.park@casa-sol.es",
+    "subject": "Wrong times showing",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:20:00+02:00"
+  },
+  {
+    "id": "R-41295",
+    "receivedAt": "2026-09-17T04:10:00+02:00",
+    "reporter": "noah.vik@clinic-north.eu",
+    "subject": "times are wrong!!",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:21:00+02:00"
+  },
+  {
+    "id": "R-41296",
+    "receivedAt": "2026-09-17T04:10:00+02:00",
+    "reporter": "priya.diaz+rota@brightwell.org",
+    "subject": "Times moved by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:21:00+02:00"
+  },
+  {
+    "id": "R-41297",
+    "receivedAt": "2026-09-17T04:11:00+02:00",
+    "reporter": "marek.baker@clinic-north.eu",
+    "subject": "Wrong times since last night",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:21:00+02:00"
+  },
+  {
+    "id": "R-41298",
+    "receivedAt": "2026-09-17T04:11:00+02:00",
+    "reporter": "sven.moss@clinic-north.eu",
+    "subject": "Thursday is wrong by an hour",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:21:00+02:00"
+  },
+  {
+    "id": "R-41299",
+    "receivedAt": "2026-09-17T04:12:00+02:00",
+    "reporter": "noah.berg@clinic-north.eu",
+    "subject": "Off by 1h",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:21:00+02:00"
+  },
+  {
+    "id": "R-41300",
+    "receivedAt": "2026-09-17T04:13:00+02:00",
+    "reporter": "omar.diaz@clinic-north.eu",
+    "subject": "Wrong times showing",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:22:00+02:00"
+  },
+  {
+    "id": "R-41301",
+    "receivedAt": "2026-09-17T04:13:00+02:00",
+    "reporter": "tom.reed+work@clinic-north.eu",
+    "subject": "Wrong times since last night",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:22:00+02:00"
+  },
+  {
+    "id": "R-41299",
+    "receivedAt": "2026-09-17T04:12:00+02:00",
+    "reporter": "noah.berg@clinic-north.eu",
+    "subject": "Off by 1h",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:21:00+02:00"
+  },
+  {
+    "id": "R-41300",
+    "receivedAt": "2026-09-17T04:13:00+02:00",
+    "reporter": "omar.diaz@clinic-north.eu",
+    "subject": "Wrong times showing",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:22:00+02:00"
+  },
+  {
+    "id": "R-41301",
+    "receivedAt": "2026-09-17T04:13:00+02:00",
+    "reporter": "tom.reed+work@clinic-north.eu",
+    "subject": "Wrong times since last night",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:22:00+02:00"
+  },
+  {
+    "id": "R-41302",
+    "receivedAt": "2026-09-17T04:13:00+02:00",
+    "reporter": "kasia.diaz+rota@brightwell.org",
+    "subject": "Times moved by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:22:00+02:00"
+  },
+  {
+    "id": "R-41303",
+    "receivedAt": "2026-09-17T04:14:00+02:00",
+    "reporter": "eva.moss+work@zorza-care.pl",
+    "subject": "everything is an hour off",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour. Screen showed E-UI-31 before it reloaded.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:22:00+02:00"
+  },
+  {
+    "id": "R-41304",
+    "receivedAt": "2026-09-17T04:14:00+02:00",
+    "reporter": "tom.kowal@casa-sol.es",
+    "subject": "Off by 1h",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:22:00+02:00"
+  },
+  {
+    "id": "R-41305",
+    "receivedAt": "2026-09-17T04:15:00+02:00",
+    "reporter": "ana.moss@brightwell.org",
+    "subject": "Clock is wrong",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:23:00+02:00"
+  },
+  {
+    "id": "R-41306",
+    "receivedAt": "2026-09-17T04:15:00+02:00",
+    "reporter": "priya.nowak@brightwell.org",
+    "subject": "Schedule shifted by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:23:00+02:00"
+  },
+  {
+    "id": "R-41308",
+    "receivedAt": "2026-09-17T04:16:00+02:00",
+    "reporter": "jonas.diaz@clinic-north.eu",
+    "subject": "URGENT times wrong",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:23:00+02:00"
+  },
+  {
+    "id": "R-41309",
+    "receivedAt": "2026-09-17T04:16:00+02:00",
+    "reporter": "noah.falk@ml-trafik.se",
+    "subject": "Clock is wrong",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "All our times are one hour off.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:23:00+02:00"
+  },
+  {
+    "id": "R-41310",
+    "receivedAt": "2026-09-17T04:17:00+02:00",
+    "reporter": "tom.vik@clinic-north.eu",
+    "subject": "everything is an hour off",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:23:00+02:00"
+  },
+  {
+    "id": "R-41311",
+    "receivedAt": "2026-09-17T04:18:00+02:00",
+    "reporter": "Priya.hart@metro-lund.se",
+    "subject": "Wrong times since last night",
+    "source": "boards-fw",
+    "product": "tram-3",
+    "meta": {},
+    "body": "Platform screens are one hour behind the timetable. Screen showed E-UI-31 before it reloaded. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:24:00+02:00"
+  },
+  {
+    "id": "R-41312",
+    "receivedAt": "2026-09-17T04:18:00+02:00",
+    "reporter": "sven.shah@clinic-north.eu",
+    "subject": "everything is an hour off",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:24:00+02:00"
+  },
+  {
+    "id": "R-41313",
+    "receivedAt": "2026-09-17T04:19:00+02:00",
+    "reporter": "ilona.wolf@brightwell.org",
+    "subject": "Wrong times showing",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:24:00+02:00"
+  },
+  {
+    "id": "R-41314",
+    "receivedAt": "2026-09-17T04:19:00+02:00",
+    "reporter": "marek.falk@tramvaj-ostrava.cz",
+    "subject": "Clock is wrong",
+    "source": "boards-fw",
+    "product": "tram-3",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Platform screens are one hour behind the timetable.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:24:00+02:00"
+  },
+  {
+    "id": "R-41315",
+    "receivedAt": "2026-09-17T04:19:00+02:00",
+    "reporter": "PIOTR.LIS@CLINIC-NORTH.EU",
+    "subject": "Wrong times showing",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:25:00+02:00"
+  },
+  {
+    "id": "R-41316",
+    "receivedAt": "2026-09-17T04:19:00+02:00",
+    "reporter": "omar.kowal@clinic-north.eu",
+    "subject": "Clock is wrong",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:25:00+02:00"
+  },
+  {
+    "id": "R-41317",
+    "receivedAt": "2026-09-17T04:20:00+02:00",
+    "reporter": "Lea.diaz@zorza-care.pl",
+    "subject": "Clock is wrong",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:25:00+02:00"
+  },
+  {
+    "id": "R-41318",
+    "receivedAt": "2026-09-17T04:20:00+02:00",
+    "reporter": "piotr.lis@clinic-north.eu",
+    "subject": "Off by 1h",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. Screen showed E-UI-31 before it reloaded. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:25:00+02:00"
+  },
+  {
+    "id": "R-41319",
+    "receivedAt": "2026-09-17T04:20:00+02:00",
+    "reporter": "MAREK.FALK@TRAMVAJ-OSTRAVA.CZ",
+    "subject": "Times moved by an hour",
+    "source": "email",
+    "product": "tram-3",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Boards say next tram in 61 minutes, it is here now.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:25:00+02:00"
+  },
+  {
+    "id": "R-41320",
+    "receivedAt": "2026-09-17T04:20:00+02:00",
+    "reporter": "noah.nowak@casa-sol.es",
+    "subject": "Thursday is wrong by an hour",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "My Thursday shifts have moved by an hour. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:25:00+02:00"
+  },
+  {
+    "id": "R-41321",
+    "receivedAt": "2026-09-17T04:21:00+02:00",
+    "reporter": "ilona.diaz@zorza-care.pl",
+    "subject": "Thursday is wrong by an hour",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:27:00+02:00"
+  },
+  {
+    "id": "R-41322",
+    "receivedAt": "2026-09-17T04:22:00+02:00",
+    "reporter": "noah.berg@clinic-north.eu",
+    "subject": "times are wrong!!",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:27:00+02:00"
+  },
+  {
+    "id": "R-41323",
+    "receivedAt": "2026-09-17T04:22:00+02:00",
+    "reporter": "piotr.hart+shifts@lindholm-hus.se",
+    "subject": "everything is an hour off",
+    "source": "phone",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Phone, typed by the desk: a shift shows up twice, an hour apart. App says error e-sync 04.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:27:00+02:00"
+  },
+  {
+    "id": "R-41324",
+    "receivedAt": "2026-09-17T04:22:00+02:00",
+    "reporter": "eva.kowal@zorza-care.pl",
+    "subject": "times are wrong!!",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:27:00+02:00"
+  },
+  {
+    "id": "R-41325",
+    "receivedAt": "2026-09-17T04:22:00+02:00",
+    "reporter": "sven.reed@casa-sol.es",
+    "subject": "Wrong times since last night",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:27:00+02:00"
+  },
+  {
+    "id": "R-41327",
+    "receivedAt": "2026-09-17T04:23:00+02:00",
+    "reporter": "MAREK.WOLF@CLINIC-NORTH.EU",
+    "subject": "Thursday is wrong by an hour",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:27:00+02:00"
+  },
+  {
+    "id": "R-41328",
+    "receivedAt": "2026-09-17T04:23:00+02:00",
+    "reporter": "eva.park@zorza-care.pl",
+    "subject": "Wrong times showing",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:27:00+02:00"
+  },
+  {
+    "id": "R-41329",
+    "receivedAt": "2026-09-17T04:23:00+02:00",
+    "reporter": "PIOTR.RUIZ@TRAMVAJ-OSTRAVA.CZ",
+    "subject": "Off by 1h",
+    "source": "boards-fw",
+    "product": "tram-3",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Departure boards on line 4 show every tram an hour late.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:27:00+02:00"
+  },
+  {
+    "id": "R-41330",
+    "receivedAt": "2026-09-17T04:24:00+02:00",
+    "reporter": "ilona.diaz@zorza-care.pl",
+    "subject": "Schedule shifted by an hour",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:27:00+02:00"
+  },
+  {
+    "id": "R-41331",
+    "receivedAt": "2026-09-17T04:24:00+02:00",
+    "reporter": "kasia.park@brightwell.org",
+    "subject": "Clock is wrong",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:27:00+02:00"
+  },
+  {
+    "id": "R-41332",
+    "receivedAt": "2026-09-17T04:25:00+02:00",
+    "reporter": "lea.hart@oak-lane-care.co.uk",
+    "subject": "Wrong times since last night",
+    "source": "phone",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Phone, typed by the desk: a shift shows up twice, an hour apart. (E-SYNC-04)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:28:00+02:00"
+  },
+  {
+    "id": "R-41333",
+    "receivedAt": "2026-09-17T04:25:00+02:00",
+    "reporter": "Noah.diaz@casa-sol.es",
+    "subject": "Thursday is wrong by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:28:00+02:00"
+  },
+  {
+    "id": "R-41334",
+    "receivedAt": "2026-09-17T04:27:00+02:00",
+    "reporter": "priya.vik@zorza-care.pl",
+    "subject": "Schedule shifted by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:28:00+02:00"
+  },
+  {
+    "id": "R-41335",
+    "receivedAt": "2026-09-17T04:28:00+02:00",
+    "reporter": "mira.stone+shifts@brightwell.org",
+    "subject": "Schedule shifted by an hour",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:28:00+02:00"
+  },
+  {
+    "id": "R-41336",
+    "receivedAt": "2026-09-17T04:28:00+02:00",
+    "reporter": "jonas.moss@clinic-north.eu",
+    "subject": "Schedule shifted by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:28:00+02:00"
+  },
+  {
+    "id": "R-41337",
+    "receivedAt": "2026-09-17T04:28:00+02:00",
+    "reporter": "piotr.falk@tramvaj-ostrava.cz",
+    "subject": "everything is an hour off",
+    "source": "boards-fw",
+    "product": "tram-3",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Platform screens are one hour behind the timetable.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:29:00+02:00"
+  },
+  {
+    "id": "R-41338",
+    "receivedAt": "2026-09-17T04:29:00+02:00",
+    "reporter": "jonas.nowak+shifts@clinic-north.eu",
+    "subject": "Wrong times since last night",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:29:00+02:00"
+  },
+  {
+    "id": "R-41339",
+    "receivedAt": "2026-09-17T04:29:00+02:00",
+    "reporter": "kasia.falk@metro-lund.se",
+    "subject": "Off by 1h",
+    "source": "email",
+    "product": "tram-3",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Boards say next tram in 61 minutes, it is here now.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:29:00+02:00"
+  },
+  {
+    "id": "R-41340",
+    "receivedAt": "2026-09-17T04:30:00+02:00",
+    "reporter": "priya.berg@zorza-care.pl",
+    "subject": "Schedule shifted by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:29:00+02:00"
+  },
+  {
+    "id": "R-41341",
+    "receivedAt": "2026-09-17T04:30:00+02:00",
+    "reporter": "omar.wolf@casa-sol.es",
+    "subject": "Thursday is wrong by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:29:00+02:00"
+  },
+  {
+    "id": "R-41342",
+    "receivedAt": "2026-09-17T04:30:00+02:00",
+    "reporter": "Kasia.baker@zorza-care.pl",
+    "subject": "Times moved by an hour",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:30:00+02:00"
+  },
+  {
+    "id": "R-41343",
+    "receivedAt": "2026-09-17T04:31:00+02:00",
+    "reporter": "lea.wolf@brightwell.org",
+    "subject": "URGENT times wrong",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "My Thursday shifts have moved by an hour. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:30:00+02:00"
+  },
+  {
+    "id": "R-41344",
+    "receivedAt": "2026-09-17T04:31:00+02:00",
+    "reporter": "ilona.kowal@zorza-care.pl",
+    "subject": "Wrong times since last night",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:30:00+02:00"
+  },
+  {
+    "id": "R-41345",
+    "receivedAt": "2026-09-17T04:31:00+02:00",
+    "reporter": "Lea.falk@metro-lund.se",
+    "subject": "everything is an hour off",
+    "source": "boards-fw",
+    "product": "tram-3",
+    "meta": {},
+    "body": "Platform screens are one hour behind the timetable. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:30:00+02:00"
+  },
+  {
+    "id": "R-41346",
+    "receivedAt": "2026-09-17T04:31:00+02:00",
+    "reporter": "ilona.reed@brightwell.org",
+    "subject": "Times moved by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:30:00+02:00"
+  },
+  {
+    "id": "R-41347",
+    "receivedAt": "2026-09-17T04:31:00+02:00",
+    "reporter": "Sven.baker@casa-sol.es",
+    "subject": "Clock is wrong",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:31:00+02:00"
+  },
+  {
+    "id": "R-41348",
+    "receivedAt": "2026-09-17T04:31:00+02:00",
+    "reporter": "jonas.hart@lindholm-hus.se",
+    "subject": "Off by 1h",
+    "source": "email",
+    "product": "rota-6",
+    "meta": {
+      "errorCode": "E-SYNC-04"
+    },
+    "body": "Night shift tonight shows twice, once with nobody on it.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:31:00+02:00"
+  },
+  {
+    "id": "R-41349",
+    "receivedAt": "2026-09-17T04:32:00+02:00",
+    "reporter": "kasia.vik@zorza-care.pl",
+    "subject": "Clock is wrong",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. Screen showed E-UI-31 before it reloaded. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:31:00+02:00"
+  },
+  {
+    "id": "R-41350",
+    "receivedAt": "2026-09-17T04:33:00+02:00",
+    "reporter": "sven.holm+shifts@casa-sol.es",
+    "subject": "Wrong times since last night",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:31:00+02:00"
+  },
+  {
+    "id": "R-41351",
+    "receivedAt": "2026-09-17T04:33:00+02:00",
+    "reporter": "ilona.park@zorza-care.pl",
+    "subject": "Times moved by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "My Thursday shifts have moved by an hour. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:31:00+02:00"
+  },
+  {
+    "id": "R-41352",
+    "receivedAt": "2026-09-17T04:33:00+02:00",
+    "reporter": "mira.lis@zorza-care.pl",
+    "subject": "Off by 1h",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:32:00+02:00"
+  },
+  {
+    "id": "R-41353",
+    "receivedAt": "2026-09-17T04:33:00+02:00",
+    "reporter": "tom.vik@clinic-north.eu",
+    "subject": "Off by 1h",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:32:00+02:00"
+  },
+  {
+    "id": "R-41351",
+    "receivedAt": "2026-09-17T04:33:00+02:00",
+    "reporter": "ilona.park@zorza-care.pl",
+    "subject": "Times moved by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "My Thursday shifts have moved by an hour. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:31:00+02:00"
+  },
+  {
+    "id": "R-41352",
+    "receivedAt": "2026-09-17T04:33:00+02:00",
+    "reporter": "mira.lis@zorza-care.pl",
+    "subject": "Off by 1h",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:32:00+02:00"
+  },
+  {
+    "id": "R-41353",
+    "receivedAt": "2026-09-17T04:33:00+02:00",
+    "reporter": "tom.vik@clinic-north.eu",
+    "subject": "Off by 1h",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:32:00+02:00"
+  },
+  {
+    "id": "R-41354",
+    "receivedAt": "2026-09-17T04:34:00+02:00",
+    "reporter": "noah.wolf@clinic-north.eu",
+    "subject": "URGENT times wrong",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:32:00+02:00"
+  },
+  {
+    "id": "R-41355",
+    "receivedAt": "2026-09-17T04:34:00+02:00",
+    "reporter": "jonas.wolf@casa-sol.es",
+    "subject": "Schedule shifted by an hour",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:32:00+02:00"
+  },
+  {
+    "id": "R-41356",
+    "receivedAt": "2026-09-17T04:35:00+02:00",
+    "reporter": "ana.hart@metro-lund.se",
+    "subject": "Off by 1h",
+    "source": "email",
+    "product": "tram-3",
+    "meta": {},
+    "body": "Departure boards on line 4 show every tram an hour late. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:32:00+02:00"
+  },
+  {
+    "id": "R-41357",
+    "receivedAt": "2026-09-17T04:35:00+02:00",
+    "reporter": "mira.kowal@brightwell.org",
+    "subject": "Wrong times since last night",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:33:00+02:00"
+  },
+  {
+    "id": "R-41358",
+    "receivedAt": "2026-09-17T04:35:00+02:00",
+    "reporter": "Kasia.lis@zorza-care.pl",
+    "subject": "Clock is wrong",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:33:00+02:00"
+  },
+  {
+    "id": "R-41359",
+    "receivedAt": "2026-09-17T04:35:00+02:00",
+    "reporter": "sven.ruiz@casa-sol.es",
+    "subject": "Wrong times since last night",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app. Screen showed E-UI-31 before it reloaded.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:33:00+02:00"
+  },
+  {
+    "id": "R-41360",
+    "receivedAt": "2026-09-17T04:35:00+02:00",
+    "reporter": "lea.holm+shifts@brightwell.org",
+    "subject": "Clock is wrong",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:33:00+02:00"
+  },
+  {
+    "id": "R-41361",
+    "receivedAt": "2026-09-17T04:35:00+02:00",
+    "reporter": "lea.berg@brightwell.org",
+    "subject": "URGENT times wrong",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:33:00+02:00"
+  },
+  {
+    "id": "R-41362",
+    "receivedAt": "2026-09-17T04:36:00+02:00",
+    "reporter": "mira.nowak@brightwell.org",
+    "subject": "Thursday is wrong by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:34:00+02:00"
+  },
+  {
+    "id": "R-41363",
+    "receivedAt": "2026-09-17T04:36:00+02:00",
+    "reporter": "marek.berg+work@clinic-north.eu",
+    "subject": "Times moved by an hour",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:34:00+02:00"
+  },
+  {
+    "id": "R-41364",
+    "receivedAt": "2026-09-17T04:36:00+02:00",
+    "reporter": "eva.wolf@brightwell.org",
+    "subject": "Wrong times since last night",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:34:00+02:00"
+  },
+  {
+    "id": "R-41365",
+    "receivedAt": "2026-09-17T04:36:00+02:00",
+    "reporter": "ana.wolf@zorza-care.pl",
+    "subject": "Schedule shifted by an hour",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:34:00+02:00"
+  },
+  {
+    "id": "R-41366",
+    "receivedAt": "2026-09-17T04:36:00+02:00",
+    "reporter": "ilona.holm+work@brightwell.org",
+    "subject": "Thursday is wrong by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:34:00+02:00"
+  },
+  {
+    "id": "R-41367",
+    "receivedAt": "2026-09-17T04:37:00+02:00",
+    "reporter": "marek.shah@casa-sol.es",
+    "subject": "Wrong times showing",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:35:00+02:00"
+  },
+  {
+    "id": "R-41368",
+    "receivedAt": "2026-09-17T04:38:00+02:00",
+    "reporter": "jonas.holm@casa-sol.es",
+    "subject": "Wrong times showing",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:35:00+02:00"
+  },
+  {
+    "id": "R-41369",
+    "receivedAt": "2026-09-17T04:38:00+02:00",
+    "reporter": "piotr.hart+rota@lindholm-hus.se",
+    "subject": "Wrong times since last night",
+    "source": "rota-sync",
+    "product": "rota-6",
+    "meta": {},
+    "body": "Two copies of the night rota, one hour apart. Which one is real? App says error e-sync 04.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:35:00+02:00"
+  },
+  {
+    "id": "R-41370",
+    "receivedAt": "2026-09-17T04:39:00+02:00",
+    "reporter": "Kasia.holm@zorza-care.pl",
+    "subject": "Off by 1h",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "My Thursday shifts have moved by an hour. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:35:00+02:00"
+  },
+  {
+    "id": "R-41371",
+    "receivedAt": "2026-09-17T04:39:00+02:00",
+    "reporter": "piotr.park@casa-sol.es",
+    "subject": "Wrong times since last night",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. Screen showed E-UI-31 before it reloaded. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:35:00+02:00"
+  },
+  {
+    "id": "R-41372",
+    "receivedAt": "2026-09-17T04:40:00+02:00",
+    "reporter": "marek.ruiz+rota@clinic-north.eu",
+    "subject": "Off by 1h",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:36:00+02:00"
+  },
+  {
+    "id": "R-41373",
+    "receivedAt": "2026-09-17T04:42:00+02:00",
+    "reporter": "omar.hart@lindholm-hus.se",
+    "subject": "URGENT times wrong",
+    "source": "phone",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Phone, typed by the desk: caller says tonight is listed twice. (E-SYNC-04)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:36:00+02:00"
+  },
+  {
+    "id": "R-41374",
+    "receivedAt": "2026-09-17T04:42:00+02:00",
+    "reporter": "jonas.moss@clinic-north.eu",
+    "subject": "everything is an hour off",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:36:00+02:00"
+  },
+  {
+    "id": "R-41375",
+    "receivedAt": "2026-09-17T04:42:00+02:00",
+    "reporter": "Ilona.hart@metro-lund.se",
+    "subject": "everything is an hour off",
+    "source": "boards-fw",
+    "product": "tram-3",
+    "meta": {},
+    "body": "Platform screens are one hour behind the timetable. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:36:00+02:00"
+  },
+  {
+    "id": "R-41376",
+    "receivedAt": "2026-09-17T04:42:00+02:00",
+    "reporter": "mira.baker+work@zorza-care.pl",
+    "subject": "Wrong times showing",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:36:00+02:00"
+  },
+  {
+    "id": "R-41377",
+    "receivedAt": "2026-09-17T04:43:00+02:00",
+    "reporter": "eva.vik@brightwell.org",
+    "subject": "Off by 1h",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:37:00+02:00"
+  },
+  {
+    "id": "R-41378",
+    "receivedAt": "2026-09-17T04:43:00+02:00",
+    "reporter": "ana.park@brightwell.org",
+    "subject": "Times moved by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "My Thursday shifts have moved by an hour. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:37:00+02:00"
+  },
+  {
+    "id": "R-41379",
+    "receivedAt": "2026-09-17T04:44:00+02:00",
+    "reporter": "noah.berg@clinic-north.eu",
+    "subject": "URGENT times wrong",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:37:00+02:00"
+  },
+  {
+    "id": "R-41380",
+    "receivedAt": "2026-09-17T04:44:00+02:00",
+    "reporter": "lea.nowak@zorza-care.pl",
+    "subject": "URGENT times wrong",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:37:00+02:00"
+  },
+  {
+    "id": "R-41381",
+    "receivedAt": "2026-09-17T04:44:00+02:00",
+    "reporter": "omar.reed@casa-sol.es",
+    "subject": "Off by 1h",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour. Screen showed E-UI-31 before it reloaded.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:38:00+02:00"
+  },
+  {
+    "id": "R-41382",
+    "receivedAt": "2026-09-17T04:44:00+02:00",
+    "reporter": "ilona.ruiz@brightwell.org",
+    "subject": "Thursday is wrong by an hour",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:38:00+02:00"
+  },
+  {
+    "id": "R-41383",
+    "receivedAt": "2026-09-17T04:45:00+02:00",
+    "reporter": "kasia.shah@brightwell.org",
+    "subject": "Wrong times since last night",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:38:00+02:00"
+  },
+  {
+    "id": "R-41384",
+    "receivedAt": "2026-09-17T04:45:00+02:00",
+    "reporter": "mira.moss@brightwell.org",
+    "subject": "Clock is wrong",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:38:00+02:00"
+  },
+  {
+    "id": "R-41385",
+    "receivedAt": "2026-09-17T04:45:00+02:00",
+    "reporter": "kasia.moss@brightwell.org",
+    "subject": "Off by 1h",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:38:00+02:00"
+  },
+  {
+    "id": "R-41386",
+    "receivedAt": "2026-09-17T04:46:00+02:00",
+    "reporter": "Marek.park@casa-sol.es",
+    "subject": "URGENT times wrong",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:39:00+02:00"
+  },
+  {
+    "id": "R-41387",
+    "receivedAt": "2026-09-17T04:46:00+02:00",
+    "reporter": "priya.moss+shifts@brightwell.org",
+    "subject": "Wrong times showing",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:39:00+02:00"
+  },
+  {
+    "id": "R-41388",
+    "receivedAt": "2026-09-17T04:47:00+02:00",
+    "reporter": "kasia.berg@zorza-care.pl",
+    "subject": "Off by 1h",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:39:00+02:00"
+  },
+  {
+    "id": "R-41389",
+    "receivedAt": "2026-09-17T04:47:00+02:00",
+    "reporter": "piotr.shah+rota@casa-sol.es",
+    "subject": "URGENT times wrong",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:39:00+02:00"
+  },
+  {
+    "id": "R-41390",
+    "receivedAt": "2026-09-17T04:47:00+02:00",
+    "reporter": "sven.lis@casa-sol.es",
+    "subject": "everything is an hour off",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:40:00+02:00"
+  },
+  {
+    "id": "R-41391",
+    "receivedAt": "2026-09-17T04:48:00+02:00",
+    "reporter": "eva.holm@brightwell.org",
+    "subject": "Schedule shifted by an hour",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:40:00+02:00"
+  },
+  {
+    "id": "R-41392",
+    "receivedAt": "2026-09-17T04:48:00+02:00",
+    "reporter": "eva.falk@metro-lund.se",
+    "subject": "Schedule shifted by an hour",
+    "source": "boards-fw",
+    "product": "tram-3",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Departure boards on line 4 show every tram an hour late.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:40:00+02:00"
+  },
+  {
+    "id": "R-41393",
+    "receivedAt": "2026-09-17T04:50:00+02:00",
+    "reporter": "ilona.hart@metro-lund.se",
+    "subject": "Off by 1h",
+    "source": "boards-fw",
+    "product": "tram-3",
+    "meta": {},
+    "body": "Platform screens are one hour behind the timetable. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:40:00+02:00"
+  },
+  {
+    "id": "R-41394",
+    "receivedAt": "2026-09-17T04:50:00+02:00",
+    "reporter": "mira.nowak@brightwell.org",
+    "subject": "URGENT times wrong",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:41:00+02:00"
+  },
+  {
+    "id": "R-41395",
+    "receivedAt": "2026-09-17T04:50:00+02:00",
+    "reporter": "omar.wolf@casa-sol.es",
+    "subject": "URGENT times wrong",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app. Screen showed E-UI-31 before it reloaded.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:41:00+02:00"
+  },
+  {
+    "id": "R-41396",
+    "receivedAt": "2026-09-17T04:50:00+02:00",
+    "reporter": "tom.ruiz@clinic-north.eu",
+    "subject": "Off by 1h",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "My Thursday shifts have moved by an hour. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:41:00+02:00"
+  },
+  {
+    "id": "R-41397",
+    "receivedAt": "2026-09-17T04:51:00+02:00",
+    "reporter": "mira.diaz@brightwell.org",
+    "subject": "Off by 1h",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:41:00+02:00"
+  },
+  {
+    "id": "R-41398",
+    "receivedAt": "2026-09-17T04:51:00+02:00",
+    "reporter": "ana.reed@zorza-care.pl",
+    "subject": "Thursday is wrong by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:41:00+02:00"
+  },
+  {
+    "id": "R-41399",
+    "receivedAt": "2026-09-17T04:51:00+02:00",
+    "reporter": "ilona.baker@brightwell.org",
+    "subject": "everything is an hour off",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:42:00+02:00"
+  },
+  {
+    "id": "R-41400",
+    "receivedAt": "2026-09-17T04:51:00+02:00",
+    "reporter": "marek.falk@tramvaj-ostrava.cz",
+    "subject": "URGENT times wrong",
+    "source": "boards-fw",
+    "product": "tram-3",
+    "meta": {},
+    "body": "Platform screens are one hour behind the timetable. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:42:00+02:00"
+  },
+  {
+    "id": "R-41401",
+    "receivedAt": "2026-09-17T04:51:00+02:00",
+    "reporter": "priya.hart@metro-lund.se",
+    "subject": "times are wrong!!",
+    "source": "boards-fw",
+    "product": "tram-3",
+    "meta": {},
+    "body": "Departure boards on line 4 show every tram an hour late. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:42:00+02:00"
+  },
+  {
+    "id": "R-41402",
+    "receivedAt": "2026-09-17T04:52:00+02:00",
+    "reporter": "PRIYA.BAKER@ZORZA-CARE.PL",
+    "subject": "Wrong times showing",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "My Thursday shifts have moved by an hour. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:42:00+02:00"
+  },
+  {
+    "id": "R-41403",
+    "receivedAt": "2026-09-17T04:52:00+02:00",
+    "reporter": "Lea.lis@brightwell.org",
+    "subject": "times are wrong!!",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "My Thursday shifts have moved by an hour. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:42:00+02:00"
+  },
+  {
+    "id": "R-41403",
+    "receivedAt": "2026-09-17T04:52:00+02:00",
+    "reporter": "Lea.lis@brightwell.org",
+    "subject": "times are wrong!!",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "My Thursday shifts have moved by an hour. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:42:00+02:00"
+  },
+  {
+    "id": "R-41404",
+    "receivedAt": "2026-09-17T04:53:00+02:00",
+    "reporter": "Marek.diaz@casa-sol.es",
+    "subject": "Schedule shifted by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:43:00+02:00"
+  },
+  {
+    "id": "R-41405",
+    "receivedAt": "2026-09-17T04:53:00+02:00",
+    "reporter": "ana.falk+work@metro-lund.se",
+    "subject": "Clock is wrong",
+    "source": "boards-fw",
+    "product": "tram-3",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Boards say next tram in 61 minutes, it is here now.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:43:00+02:00"
+  },
+  {
+    "id": "R-41406",
+    "receivedAt": "2026-09-17T04:53:00+02:00",
+    "reporter": "marek.stone@casa-sol.es",
+    "subject": "URGENT times wrong",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:43:00+02:00"
+  },
+  {
+    "id": "R-41408",
+    "receivedAt": "2026-09-17T04:54:00+02:00",
+    "reporter": "mira.wolf@zorza-care.pl",
+    "subject": "Clock is wrong",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:43:00+02:00"
+  },
+  {
+    "id": "R-41409",
+    "receivedAt": "2026-09-17T04:54:00+02:00",
+    "reporter": "mira.ruiz@zorza-care.pl",
+    "subject": "Clock is wrong",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:44:00+02:00"
+  },
+  {
+    "id": "R-41410",
+    "receivedAt": "2026-09-17T04:54:00+02:00",
+    "reporter": "ILONA.KOWAL@ZORZA-CARE.PL",
+    "subject": "URGENT times wrong",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:44:00+02:00"
+  },
+  {
+    "id": "R-41411",
+    "receivedAt": "2026-09-17T04:55:00+02:00",
+    "reporter": "Eva.park@zorza-care.pl",
+    "subject": "Thursday is wrong by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:44:00+02:00"
+  },
+  {
+    "id": "R-41412",
+    "receivedAt": "2026-09-17T04:55:00+02:00",
+    "reporter": "kasia.wolf+rota@zorza-care.pl",
+    "subject": "URGENT times wrong",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:44:00+02:00"
+  },
+  {
+    "id": "R-41413",
+    "receivedAt": "2026-09-17T04:55:00+02:00",
+    "reporter": "eva.holm@brightwell.org",
+    "subject": "URGENT times wrong",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour. First the app said E-NET-03 (offline).",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:44:00+02:00"
+  },
+  {
+    "id": "R-41414",
+    "receivedAt": "2026-09-17T04:55:00+02:00",
+    "reporter": "ana.ruiz+rota@zorza-care.pl",
+    "subject": "Times moved by an hour",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:45:00+02:00"
+  },
+  {
+    "id": "R-41415",
+    "receivedAt": "2026-09-17T04:55:00+02:00",
+    "reporter": "marek.berg@clinic-north.eu",
+    "subject": "Wrong times showing",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:45:00+02:00"
+  },
+  {
+    "id": "R-41416",
+    "receivedAt": "2026-09-17T04:56:00+02:00",
+    "reporter": "kasia.reed+shifts@zorza-care.pl",
+    "subject": "Wrong times showing",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:45:00+02:00"
+  },
+  {
+    "id": "R-41417",
+    "receivedAt": "2026-09-17T04:56:00+02:00",
+    "reporter": "tom.vik+rota@clinic-north.eu",
+    "subject": "everything is an hour off",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:45:00+02:00"
+  },
+  {
+    "id": "R-41418",
+    "receivedAt": "2026-09-17T04:58:00+02:00",
+    "reporter": "noah.ruiz@tramvaj-ostrava.cz",
+    "subject": "URGENT times wrong",
+    "source": "boards-fw",
+    "product": "tram-3",
+    "meta": {},
+    "body": "Platform screens are one hour behind the timetable. Screen showed E-UI-31 before it reloaded. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:45:00+02:00"
+  },
+  {
+    "id": "R-41419",
+    "receivedAt": "2026-09-17T04:58:00+02:00",
+    "reporter": "Piotr.moss@casa-sol.es",
+    "subject": "URGENT times wrong",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:46:00+02:00"
+  },
+  {
+    "id": "R-41420",
+    "receivedAt": "2026-09-17T04:58:00+02:00",
+    "reporter": "noah.shah@casa-sol.es",
+    "subject": "URGENT times wrong",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. Screen showed E-UI-31 before it reloaded. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:46:00+02:00"
+  },
+  {
+    "id": "R-41421",
+    "receivedAt": "2026-09-17T04:58:00+02:00",
+    "reporter": "marek.ruiz@clinic-north.eu",
+    "subject": "Wrong times since last night",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:46:00+02:00"
+  },
+  {
+    "id": "R-41422",
+    "receivedAt": "2026-09-17T04:59:00+02:00",
+    "reporter": "piotr.stone@casa-sol.es",
+    "subject": "Off by 1h",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:46:00+02:00"
+  },
+  {
+    "id": "R-41423",
+    "receivedAt": "2026-09-17T04:59:00+02:00",
+    "reporter": "piotr.wolf@clinic-north.eu",
+    "subject": "everything is an hour off",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:46:00+02:00"
+  },
+  {
+    "id": "R-41424",
+    "receivedAt": "2026-09-17T05:00:00+02:00",
+    "reporter": "omar.holm@casa-sol.es",
+    "subject": "Thursday is wrong by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:47:00+02:00"
+  },
+  {
+    "id": "R-41425",
+    "receivedAt": "2026-09-17T05:00:00+02:00",
+    "reporter": "mira.moss+rota@brightwell.org",
+    "subject": "Thursday is wrong by an hour",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:47:00+02:00"
+  },
+  {
+    "id": "R-41427",
+    "receivedAt": "2026-09-17T05:00:00+02:00",
+    "reporter": "lea.wolf@brightwell.org",
+    "subject": "URGENT times wrong",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:47:00+02:00"
+  },
+  {
+    "id": "R-41428",
+    "receivedAt": "2026-09-17T05:01:00+02:00",
+    "reporter": "priya.stone+work@brightwell.org",
+    "subject": "everything is an hour off",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:47:00+02:00"
+  },
+  {
+    "id": "R-41429",
+    "receivedAt": "2026-09-17T05:01:00+02:00",
+    "reporter": "omar.falk@ml-trafik.se",
+    "subject": "Schedule shifted by an hour",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Everything on our screens is an hour late since last night. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:47:00+02:00"
+  },
+  {
+    "id": "R-41430",
+    "receivedAt": "2026-09-17T05:01:00+02:00",
+    "reporter": "noah.moss+work@casa-sol.es",
+    "subject": "Clock is wrong",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour. Screen showed E-UI-31 before it reloaded.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:48:00+02:00"
+  },
+  {
+    "id": "R-41431",
+    "receivedAt": "2026-09-17T05:01:00+02:00",
+    "reporter": "TOM.BAKER@CLINIC-NORTH.EU",
+    "subject": "Schedule shifted by an hour",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "My Thursday shifts have moved by an hour. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:48:00+02:00"
+  },
+  {
+    "id": "R-41432",
+    "receivedAt": "2026-09-17T05:02:00+02:00",
+    "reporter": "piotr.diaz@casa-sol.es",
+    "subject": "URGENT times wrong",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned. First the app said E-NET-03 (offline).",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:48:00+02:00"
+  },
+  {
+    "id": "R-41433",
+    "receivedAt": "2026-09-17T05:02:00+02:00",
+    "reporter": "lea.lis@brightwell.org",
+    "subject": "Wrong times showing",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:48:00+02:00"
+  },
+  {
+    "id": "R-41434",
+    "receivedAt": "2026-09-17T05:02:00+02:00",
+    "reporter": "tom.stone@casa-sol.es",
+    "subject": "Wrong times since last night",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "My Thursday shifts have moved by an hour. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:48:00+02:00"
+  },
+  {
+    "id": "R-41435",
+    "receivedAt": "2026-09-17T05:04:00+02:00",
+    "reporter": "noah.hart@lindholm-hus.se",
+    "subject": "Wrong times since last night",
+    "source": "phone",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Phone, typed by the desk: a shift shows up twice, an hour apart. App says error e-sync 04.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:49:00+02:00"
+  },
+  {
+    "id": "R-41436",
+    "receivedAt": "2026-09-17T05:05:00+02:00",
+    "reporter": "ilona.diaz@zorza-care.pl",
+    "subject": "URGENT times wrong",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "My Thursday shifts have moved by an hour. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:49:00+02:00"
+  },
+  {
+    "id": "R-41437",
+    "receivedAt": "2026-09-17T05:05:00+02:00",
+    "reporter": "tom.holm@clinic-north.eu",
+    "subject": "Thursday is wrong by an hour",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:49:00+02:00"
+  },
+  {
+    "id": "R-41438",
+    "receivedAt": "2026-09-17T05:05:00+02:00",
+    "reporter": "tom.hart@tramvaj-ostrava.cz",
+    "subject": "Clock is wrong",
+    "source": "email",
+    "product": "tram-3",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Platform screens are one hour behind the timetable.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:49:00+02:00"
+  },
+  {
+    "id": "R-41439",
+    "receivedAt": "2026-09-17T05:05:00+02:00",
+    "reporter": "LEA.REED@BRIGHTWELL.ORG",
+    "subject": "Wrong times showing",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:49:00+02:00"
+  },
+  {
+    "id": "R-41440",
+    "receivedAt": "2026-09-17T05:05:00+02:00",
+    "reporter": "priya.berg@zorza-care.pl",
+    "subject": "Off by 1h",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:50:00+02:00"
+  },
+  {
+    "id": "R-41441",
+    "receivedAt": "2026-09-17T05:06:00+02:00",
+    "reporter": "lea.kowal@zorza-care.pl",
+    "subject": "Thursday is wrong by an hour",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "My Thursday shifts have moved by an hour. First the app said E-NET-03 (offline). (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:50:00+02:00"
+  },
+  {
+    "id": "R-41442",
+    "receivedAt": "2026-09-17T05:06:00+02:00",
+    "reporter": "tom.ruiz@clinic-north.eu",
+    "subject": "Off by 1h",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app. First the app said E-NET-03 (offline).",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:50:00+02:00"
+  },
+  {
+    "id": "R-41443",
+    "receivedAt": "2026-09-17T05:08:00+02:00",
+    "reporter": "eva.shah+shifts@zorza-care.pl",
+    "subject": "everything is an hour off",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:50:00+02:00"
+  },
+  {
+    "id": "R-41444",
+    "receivedAt": "2026-09-17T05:08:00+02:00",
+    "reporter": "priya.lis@zorza-care.pl",
+    "subject": "Times moved by an hour",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:50:00+02:00"
+  },
+  {
+    "id": "R-41445",
+    "receivedAt": "2026-09-17T05:08:00+02:00",
+    "reporter": "EVA.NOWAK@ZORZA-CARE.PL",
+    "subject": "Off by 1h",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:51:00+02:00"
+  },
+  {
+    "id": "R-41446",
+    "receivedAt": "2026-09-17T05:08:00+02:00",
+    "reporter": "piotr.kowal@casa-sol.es",
+    "subject": "URGENT times wrong",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:51:00+02:00"
+  },
+  {
+    "id": "R-41447",
+    "receivedAt": "2026-09-17T05:08:00+02:00",
+    "reporter": "ilona.shah@zorza-care.pl",
+    "subject": "Off by 1h",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:51:00+02:00"
+  },
+  {
+    "id": "R-41448",
+    "receivedAt": "2026-09-17T05:08:00+02:00",
+    "reporter": "JONAS.BAKER@CASA-SOL.ES",
+    "subject": "times are wrong!!",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:51:00+02:00"
+  },
+  {
+    "id": "R-41449",
+    "receivedAt": "2026-09-17T05:09:00+02:00",
+    "reporter": "Priya.ruiz@zorza-care.pl",
+    "subject": "Off by 1h",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:51:00+02:00"
+  },
+  {
+    "id": "R-41450",
+    "receivedAt": "2026-09-17T05:09:00+02:00",
+    "reporter": "noah.ruiz@tramvaj-ostrava.cz",
+    "subject": "URGENT times wrong",
+    "source": "email",
+    "product": "tram-3",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Boards say next tram in 61 minutes, it is here now.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:52:00+02:00"
+  },
+  {
+    "id": "R-41451",
+    "receivedAt": "2026-09-17T05:10:00+02:00",
+    "reporter": "mira.shah@brightwell.org",
+    "subject": "Wrong times showing",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:52:00+02:00"
+  },
+  {
+    "id": "R-41452",
+    "receivedAt": "2026-09-17T05:10:00+02:00",
+    "reporter": "noah.diaz@casa-sol.es",
+    "subject": "times are wrong!!",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:52:00+02:00"
+  },
+  {
+    "id": "R-41453",
+    "receivedAt": "2026-09-17T05:10:00+02:00",
+    "reporter": "eva.baker@brightwell.org",
+    "subject": "Wrong times showing",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:52:00+02:00"
+  },
+  {
+    "id": "R-41454",
+    "receivedAt": "2026-09-17T05:11:00+02:00",
+    "reporter": "sven.shah@clinic-north.eu",
+    "subject": "Schedule shifted by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:52:00+02:00"
+  },
+  {
+    "id": "R-41455",
+    "receivedAt": "2026-09-17T05:11:00+02:00",
+    "reporter": "ana.vik+work@zorza-care.pl",
+    "subject": "Schedule shifted by an hour",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:53:00+02:00"
+  },
+  {
+    "id": "R-41453",
+    "receivedAt": "2026-09-17T05:10:00+02:00",
+    "reporter": "eva.baker@brightwell.org",
+    "subject": "Wrong times showing",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:52:00+02:00"
+  },
+  {
+    "id": "R-41454",
+    "receivedAt": "2026-09-17T05:11:00+02:00",
+    "reporter": "sven.shah@clinic-north.eu",
+    "subject": "Schedule shifted by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:52:00+02:00"
+  },
+  {
+    "id": "R-41455",
+    "receivedAt": "2026-09-17T05:11:00+02:00",
+    "reporter": "ana.vik+work@zorza-care.pl",
+    "subject": "Schedule shifted by an hour",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:53:00+02:00"
+  },
+  {
+    "id": "R-41456",
+    "receivedAt": "2026-09-17T05:11:00+02:00",
+    "reporter": "Ana.nowak@brightwell.org",
+    "subject": "Times moved by an hour",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:53:00+02:00"
+  },
+  {
+    "id": "R-41457",
+    "receivedAt": "2026-09-17T05:13:00+02:00",
+    "reporter": "piotr.stone@casa-sol.es",
+    "subject": "Clock is wrong",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:53:00+02:00"
+  },
+  {
+    "id": "R-41458",
+    "receivedAt": "2026-09-17T05:13:00+02:00",
+    "reporter": "priya.nowak@brightwell.org",
+    "subject": "Schedule shifted by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:53:00+02:00"
+  },
+  {
+    "id": "R-41459",
+    "receivedAt": "2026-09-17T05:13:00+02:00",
+    "reporter": "Jonas.stone@clinic-north.eu",
+    "subject": "Clock is wrong",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:54:00+02:00"
+  },
+  {
+    "id": "R-41460",
+    "receivedAt": "2026-09-17T05:13:00+02:00",
+    "reporter": "kasia.moss@brightwell.org",
+    "subject": "Wrong times since last night",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:54:00+02:00"
+  },
+  {
+    "id": "R-41461",
+    "receivedAt": "2026-09-17T05:14:00+02:00",
+    "reporter": "marek.kowal@casa-sol.es",
+    "subject": "times are wrong!!",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:54:00+02:00"
+  },
+  {
+    "id": "R-41462",
+    "receivedAt": "2026-09-17T05:14:00+02:00",
+    "reporter": "Eva.ruiz@brightwell.org",
+    "subject": "everything is an hour off",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:54:00+02:00"
+  },
+  {
+    "id": "R-41463",
+    "receivedAt": "2026-09-17T05:14:00+02:00",
+    "reporter": "piotr.nowak@casa-sol.es",
+    "subject": "everything is an hour off",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:54:00+02:00"
+  },
+  {
+    "id": "R-41464",
+    "receivedAt": "2026-09-17T05:14:00+02:00",
+    "reporter": "Kasia.wolf@zorza-care.pl",
+    "subject": "Schedule shifted by an hour",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:55:00+02:00"
+  },
+  {
+    "id": "R-41465",
+    "receivedAt": "2026-09-17T05:14:00+02:00",
+    "reporter": "SVEN.KOWAL@CLINIC-NORTH.EU",
+    "subject": "Wrong times showing",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:55:00+02:00"
+  },
+  {
+    "id": "R-41466",
+    "receivedAt": "2026-09-17T05:15:00+02:00",
+    "reporter": "jonas.nowak+work@clinic-north.eu",
+    "subject": "Wrong times since last night",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:55:00+02:00"
+  },
+  {
+    "id": "R-41467",
+    "receivedAt": "2026-09-17T05:15:00+02:00",
+    "reporter": "jonas.shah@clinic-north.eu",
+    "subject": "Off by 1h",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "My Thursday shifts have moved by an hour. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:55:00+02:00"
+  },
+  {
+    "id": "R-41468",
+    "receivedAt": "2026-09-17T05:16:00+02:00",
+    "reporter": "lea.moss@zorza-care.pl",
+    "subject": "Wrong times showing",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:56:00+02:00"
+  },
+  {
+    "id": "R-41469",
+    "receivedAt": "2026-09-17T05:16:00+02:00",
+    "reporter": "Lea.kowal@zorza-care.pl",
+    "subject": "everything is an hour off",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:56:00+02:00"
+  },
+  {
+    "id": "R-41470",
+    "receivedAt": "2026-09-17T05:16:00+02:00",
+    "reporter": "kasia.nowak+rota@brightwell.org",
+    "subject": "URGENT times wrong",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:56:00+02:00"
+  },
+  {
+    "id": "R-41471",
+    "receivedAt": "2026-09-17T05:17:00+02:00",
+    "reporter": "kasia.stone@brightwell.org",
+    "subject": "everything is an hour off",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:56:00+02:00"
+  },
+  {
+    "id": "R-41472",
+    "receivedAt": "2026-09-17T05:17:00+02:00",
+    "reporter": "kasia.stone+work@brightwell.org",
+    "subject": "Wrong times since last night",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:56:00+02:00"
+  },
+  {
+    "id": "R-41473",
+    "receivedAt": "2026-09-17T05:18:00+02:00",
+    "reporter": "omar.kowal@clinic-north.eu",
+    "subject": "everything is an hour off",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:57:00+02:00"
+  },
+  {
+    "id": "R-41474",
+    "receivedAt": "2026-09-17T05:18:00+02:00",
+    "reporter": "PIOTR.SHAH@CASA-SOL.ES",
+    "subject": "Off by 1h",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:57:00+02:00"
+  },
+  {
+    "id": "R-41475",
+    "receivedAt": "2026-09-17T05:18:00+02:00",
+    "reporter": "Sven.shah@clinic-north.eu",
+    "subject": "Wrong times showing",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:57:00+02:00"
+  },
+  {
+    "id": "R-41476",
+    "receivedAt": "2026-09-17T05:20:00+02:00",
+    "reporter": "noah.ruiz@tramvaj-ostrava.cz",
+    "subject": "Clock is wrong",
+    "source": "email",
+    "product": "tram-3",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Departure boards on line 4 show every tram an hour late.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:57:00+02:00"
+  },
+  {
+    "id": "R-41477",
+    "receivedAt": "2026-09-17T05:20:00+02:00",
+    "reporter": "piotr.nowak@casa-sol.es",
+    "subject": "everything is an hour off",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:58:00+02:00"
+  },
+  {
+    "id": "R-41478",
+    "receivedAt": "2026-09-17T05:20:00+02:00",
+    "reporter": "sven.hart@tramvaj-ostrava.cz",
+    "subject": "Thursday is wrong by an hour",
+    "source": "boards-fw",
+    "product": "tram-3",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Boards say next tram in 61 minutes, it is here now.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:58:00+02:00"
+  },
+  {
+    "id": "R-41479",
+    "receivedAt": "2026-09-17T05:21:00+02:00",
+    "reporter": "jonas.ruiz@casa-sol.es",
+    "subject": "Clock is wrong",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app. Screen showed E-UI-31 before it reloaded.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:58:00+02:00"
+  },
+  {
+    "id": "R-41480",
+    "receivedAt": "2026-09-17T05:22:00+02:00",
+    "reporter": "Lea.park@zorza-care.pl",
+    "subject": "Wrong times showing",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:58:00+02:00"
+  },
+  {
+    "id": "R-41481",
+    "receivedAt": "2026-09-17T05:22:00+02:00",
+    "reporter": "omar.vik@casa-sol.es",
+    "subject": "Wrong times since last night",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:58:00+02:00"
+  },
+  {
+    "id": "R-41482",
+    "receivedAt": "2026-09-17T05:23:00+02:00",
+    "reporter": "noah.kowal@casa-sol.es",
+    "subject": "Times moved by an hour",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:59:00+02:00"
+  },
+  {
+    "id": "R-41483",
+    "receivedAt": "2026-09-17T05:23:00+02:00",
+    "reporter": "lea.park+shifts@zorza-care.pl",
+    "subject": "Off by 1h",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. Screen showed E-UI-31 before it reloaded. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:59:00+02:00"
+  },
+  {
+    "id": "R-41484",
+    "receivedAt": "2026-09-17T05:23:00+02:00",
+    "reporter": "sven.berg@casa-sol.es",
+    "subject": "Wrong times showing",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:59:00+02:00"
+  },
+  {
+    "id": "R-41485",
+    "receivedAt": "2026-09-17T05:23:00+02:00",
+    "reporter": "eva.reed@brightwell.org",
+    "subject": "Thursday is wrong by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T05:59:00+02:00"
+  },
+  {
+    "id": "R-41486",
+    "receivedAt": "2026-09-17T05:23:00+02:00",
+    "reporter": "sven.kowal@clinic-north.eu",
+    "subject": "Wrong times showing",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:00:00+02:00"
+  },
+  {
+    "id": "R-41487",
+    "receivedAt": "2026-09-17T05:24:00+02:00",
+    "reporter": "noah.lis@clinic-north.eu",
+    "subject": "Clock is wrong",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:00:00+02:00"
+  },
+  {
+    "id": "R-41488",
+    "receivedAt": "2026-09-17T05:24:00+02:00",
+    "reporter": "jonas.kowal@clinic-north.eu",
+    "subject": "URGENT times wrong",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour. First the app said E-NET-03 (offline).",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:00:00+02:00"
+  },
+  {
+    "id": "R-41489",
+    "receivedAt": "2026-09-17T05:25:00+02:00",
+    "reporter": "piotr.shah@casa-sol.es",
+    "subject": "everything is an hour off",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:00:00+02:00"
+  },
+  {
+    "id": "R-41490",
+    "receivedAt": "2026-09-17T05:27:00+02:00",
+    "reporter": "noah.reed@clinic-north.eu",
+    "subject": "Wrong times since last night",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:00:00+02:00"
+  },
+  {
+    "id": "R-41491",
+    "receivedAt": "2026-09-17T05:27:00+02:00",
+    "reporter": "piotr.kowal@casa-sol.es",
+    "subject": "Wrong times showing",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "My Thursday shifts have moved by an hour. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:01:00+02:00"
+  },
+  {
+    "id": "R-41492",
+    "receivedAt": "2026-09-17T05:27:00+02:00",
+    "reporter": "eva.lis@brightwell.org",
+    "subject": "times are wrong!!",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:01:00+02:00"
+  },
+  {
+    "id": "R-41493",
+    "receivedAt": "2026-09-17T05:28:00+02:00",
+    "reporter": "lea.hart@oak-lane-care.co.uk",
+    "subject": "Schedule shifted by an hour",
+    "source": "email",
+    "product": "rota-6",
+    "meta": {},
+    "body": "Two copies of the night rota, one hour apart. Which one is real? App says error e-sync 04.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:01:00+02:00"
+  },
+  {
+    "id": "R-41494",
+    "receivedAt": "2026-09-17T05:28:00+02:00",
+    "reporter": "tom.moss@casa-sol.es",
+    "subject": "Schedule shifted by an hour",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:01:00+02:00"
+  },
+  {
+    "id": "R-41495",
+    "receivedAt": "2026-09-17T05:29:00+02:00",
+    "reporter": "priya.shah@brightwell.org",
+    "subject": "Clock is wrong",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "My Thursday shifts have moved by an hour. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:01:00+02:00"
+  },
+  {
+    "id": "R-41496",
+    "receivedAt": "2026-09-17T05:30:00+02:00",
+    "reporter": "sven.falk+work@tramvaj-ostrava.cz",
+    "subject": "Thursday is wrong by an hour",
+    "source": "boards-fw",
+    "product": "tram-3",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Boards say next tram in 61 minutes, it is here now.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:01:00+02:00"
+  },
+  {
+    "id": "R-41497",
+    "receivedAt": "2026-09-17T05:30:00+02:00",
+    "reporter": "marek.berg+rota@clinic-north.eu",
+    "subject": "Times moved by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:02:00+02:00"
+  },
+  {
+    "id": "R-41498",
+    "receivedAt": "2026-09-17T05:32:00+02:00",
+    "reporter": "jonas.vik@casa-sol.es",
+    "subject": "times are wrong!!",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "My Thursday shifts have moved by an hour. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:02:00+02:00"
+  },
+  {
+    "id": "R-41499",
+    "receivedAt": "2026-09-17T05:32:00+02:00",
+    "reporter": "mira.ruiz+work@zorza-care.pl",
+    "subject": "times are wrong!!",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:02:00+02:00"
+  },
+  {
+    "id": "R-41500",
+    "receivedAt": "2026-09-17T05:32:00+02:00",
+    "reporter": "ilona.kowal@zorza-care.pl",
+    "subject": "Clock is wrong",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:02:00+02:00"
+  },
+  {
+    "id": "R-41501",
+    "receivedAt": "2026-09-17T05:32:00+02:00",
+    "reporter": "kasia.holm+rota@zorza-care.pl",
+    "subject": "Wrong times showing",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:03:00+02:00"
+  },
+  {
+    "id": "R-41502",
+    "receivedAt": "2026-09-17T05:33:00+02:00",
+    "reporter": "sven.wolf+shifts@casa-sol.es",
+    "subject": "Times moved by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:03:00+02:00"
+  },
+  {
+    "id": "R-41503",
+    "receivedAt": "2026-09-17T05:33:00+02:00",
+    "reporter": "priya.falk@metro-lund.se",
+    "subject": "Clock is wrong",
+    "source": "boards-fw",
+    "product": "tram-3",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Platform screens are one hour behind the timetable.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:03:00+02:00"
+  },
+  {
+    "id": "R-41504",
+    "receivedAt": "2026-09-17T05:33:00+02:00",
+    "reporter": "omar.baker@casa-sol.es",
+    "subject": "Wrong times showing",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:03:00+02:00"
+  },
+  {
+    "id": "R-41505",
+    "receivedAt": "2026-09-17T05:34:00+02:00",
+    "reporter": "ilona.moss+rota@zorza-care.pl",
+    "subject": "URGENT times wrong",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "My Thursday shifts have moved by an hour. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:03:00+02:00"
+  },
+  {
+    "id": "R-41504",
+    "receivedAt": "2026-09-17T05:33:00+02:00",
+    "reporter": "omar.baker@casa-sol.es",
+    "subject": "Wrong times showing",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:03:00+02:00"
+  },
+  {
+    "id": "R-41505",
+    "receivedAt": "2026-09-17T05:34:00+02:00",
+    "reporter": "ilona.moss+rota@zorza-care.pl",
+    "subject": "URGENT times wrong",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "My Thursday shifts have moved by an hour. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:03:00+02:00"
+  },
+  {
+    "id": "R-41506",
+    "receivedAt": "2026-09-17T05:34:00+02:00",
+    "reporter": "lea.holm@brightwell.org",
+    "subject": "URGENT times wrong",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:04:00+02:00"
+  },
+  {
+    "id": "R-41508",
+    "receivedAt": "2026-09-17T05:34:00+02:00",
+    "reporter": "kasia.park@brightwell.org",
+    "subject": "Thursday is wrong by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:04:00+02:00"
+  },
+  {
+    "id": "R-41509",
+    "receivedAt": "2026-09-17T05:36:00+02:00",
+    "reporter": "ilona.falk+shifts@metro-lund.se",
+    "subject": "Clock is wrong",
+    "source": "email",
+    "product": "tram-3",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Boards say next tram in 61 minutes, it is here now. Screen showed E-UI-31 before it reloaded.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:04:00+02:00"
+  },
+  {
+    "id": "R-41510",
+    "receivedAt": "2026-09-17T05:36:00+02:00",
+    "reporter": "Piotr.kowal@casa-sol.es",
+    "subject": "everything is an hour off",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:04:00+02:00"
+  },
+  {
+    "id": "R-41511",
+    "receivedAt": "2026-09-17T05:36:00+02:00",
+    "reporter": "jonas.berg@casa-sol.es",
+    "subject": "everything is an hour off",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:05:00+02:00"
+  },
+  {
+    "id": "R-41512",
+    "receivedAt": "2026-09-17T05:36:00+02:00",
+    "reporter": "sven.baker@casa-sol.es",
+    "subject": "Times moved by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "My Thursday shifts have moved by an hour. Screen showed E-UI-31 before it reloaded. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:05:00+02:00"
+  },
+  {
+    "id": "R-41513",
+    "receivedAt": "2026-09-17T05:37:00+02:00",
+    "reporter": "noah.stone@casa-sol.es",
+    "subject": "Times moved by an hour",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:05:00+02:00"
+  },
+  {
+    "id": "R-41514",
+    "receivedAt": "2026-09-17T05:37:00+02:00",
+    "reporter": "sven.moss@clinic-north.eu",
+    "subject": "Clock is wrong",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:05:00+02:00"
+  },
+  {
+    "id": "R-41515",
+    "receivedAt": "2026-09-17T05:38:00+02:00",
+    "reporter": "omar.park@clinic-north.eu",
+    "subject": "times are wrong!!",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:05:00+02:00"
+  },
+  {
+    "id": "R-41516",
+    "receivedAt": "2026-09-17T05:38:00+02:00",
+    "reporter": "eva.hart@oak-lane-care.co.uk",
+    "subject": "Off by 1h",
+    "source": "rota-sync",
+    "product": "rota-6",
+    "meta": {
+      "errorCode": "E-SYNC-04"
+    },
+    "body": "Two copies of the night rota, one hour apart. Which one is real?",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:06:00+02:00"
+  },
+  {
+    "id": "R-41517",
+    "receivedAt": "2026-09-17T05:38:00+02:00",
+    "reporter": "lea.wolf@brightwell.org",
+    "subject": "Times moved by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:06:00+02:00"
+  },
+  {
+    "id": "R-41518",
+    "receivedAt": "2026-09-17T05:38:00+02:00",
+    "reporter": "eva.diaz@zorza-care.pl",
+    "subject": "Clock is wrong",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. First the app said E-NET-03 (offline). App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:06:00+02:00"
+  },
+  {
+    "id": "R-41519",
+    "receivedAt": "2026-09-17T05:39:00+02:00",
+    "reporter": "tom.stone+rota@casa-sol.es",
+    "subject": "Wrong times showing",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:06:00+02:00"
+  },
+  {
+    "id": "R-41520",
+    "receivedAt": "2026-09-17T05:40:00+02:00",
+    "reporter": "eva.baker@brightwell.org",
+    "subject": "Clock is wrong",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:06:00+02:00"
+  },
+  {
+    "id": "R-41521",
+    "receivedAt": "2026-09-17T05:40:00+02:00",
+    "reporter": "Piotr.nowak@casa-sol.es",
+    "subject": "Wrong times since last night",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:08:00+02:00"
+  },
+  {
+    "id": "R-41522",
+    "receivedAt": "2026-09-17T05:41:00+02:00",
+    "reporter": "piotr.hart@lindholm-hus.se",
+    "subject": "URGENT times wrong",
+    "source": "rota-sync",
+    "product": "rota-6",
+    "meta": {
+      "errorCode": "E-SYNC-04"
+    },
+    "body": "Two copies of the night rota, one hour apart. Which one is real?",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:08:00+02:00"
+  },
+  {
+    "id": "R-41523",
+    "receivedAt": "2026-09-17T05:41:00+02:00",
+    "reporter": "omar.lis+rota@casa-sol.es",
+    "subject": "everything is an hour off",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:08:00+02:00"
+  },
+  {
+    "id": "R-41524",
+    "receivedAt": "2026-09-17T05:41:00+02:00",
+    "reporter": "marek.holm@clinic-north.eu",
+    "subject": "Thursday is wrong by an hour",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:08:00+02:00"
+  },
+  {
+    "id": "R-41525",
+    "receivedAt": "2026-09-17T05:41:00+02:00",
+    "reporter": "noah.baker+work@clinic-north.eu",
+    "subject": "times are wrong!!",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:08:00+02:00"
+  },
+  {
+    "id": "R-41527",
+    "receivedAt": "2026-09-17T05:41:00+02:00",
+    "reporter": "Tom.berg@clinic-north.eu",
+    "subject": "Clock is wrong",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:08:00+02:00"
+  },
+  {
+    "id": "R-41528",
+    "receivedAt": "2026-09-17T05:41:00+02:00",
+    "reporter": "omar.lis@casa-sol.es",
+    "subject": "times are wrong!!",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:08:00+02:00"
+  },
+  {
+    "id": "R-41529",
+    "receivedAt": "2026-09-17T05:41:00+02:00",
+    "reporter": "kasia.reed@zorza-care.pl",
+    "subject": "Clock is wrong",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "My Thursday shifts have moved by an hour. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:08:00+02:00"
+  },
+  {
+    "id": "R-41530",
+    "receivedAt": "2026-09-17T05:42:00+02:00",
+    "reporter": "kasia.moss+rota@brightwell.org",
+    "subject": "everything is an hour off",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. Screen showed E-UI-31 before it reloaded. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:08:00+02:00"
+  },
+  {
+    "id": "R-41531",
+    "receivedAt": "2026-09-17T05:43:00+02:00",
+    "reporter": "ilona.berg@brightwell.org",
+    "subject": "Schedule shifted by an hour",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:09:00+02:00"
+  },
+  {
+    "id": "R-41532",
+    "receivedAt": "2026-09-17T05:43:00+02:00",
+    "reporter": "omar.ruiz@tramvaj-ostrava.cz",
+    "subject": "Schedule shifted by an hour",
+    "source": "email",
+    "product": "tram-3",
+    "meta": {},
+    "body": "Boards say next tram in 61 minutes, it is here now. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:09:00+02:00"
+  },
+  {
+    "id": "R-41533",
+    "receivedAt": "2026-09-17T05:43:00+02:00",
+    "reporter": "kasia.diaz@brightwell.org",
+    "subject": "Wrong times since last night",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:09:00+02:00"
+  },
+  {
+    "id": "R-41534",
+    "receivedAt": "2026-09-17T05:43:00+02:00",
+    "reporter": "priya.park@brightwell.org",
+    "subject": "Wrong times showing",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:09:00+02:00"
+  },
+  {
+    "id": "R-41535",
+    "receivedAt": "2026-09-17T05:43:00+02:00",
+    "reporter": "jonas.falk@tramvaj-ostrava.cz",
+    "subject": "Wrong times showing",
+    "source": "boards-fw",
+    "product": "tram-3",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Departure boards on line 4 show every tram an hour late.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:09:00+02:00"
+  },
+  {
+    "id": "R-41536",
+    "receivedAt": "2026-09-17T05:44:00+02:00",
+    "reporter": "tom.park@casa-sol.es",
+    "subject": "Times moved by an hour",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "My Thursday shifts have moved by an hour. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:10:00+02:00"
+  },
+  {
+    "id": "R-41537",
+    "receivedAt": "2026-09-17T05:44:00+02:00",
+    "reporter": "omar.stone+work@clinic-north.eu",
+    "subject": "Thursday is wrong by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:10:00+02:00"
+  },
+  {
+    "id": "R-41538",
+    "receivedAt": "2026-09-17T05:44:00+02:00",
+    "reporter": "omar.nowak@clinic-north.eu",
+    "subject": "Clock is wrong",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "My Thursday shifts have moved by an hour. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:10:00+02:00"
+  },
+  {
+    "id": "R-41539",
+    "receivedAt": "2026-09-17T05:44:00+02:00",
+    "reporter": "SVEN.DIAZ@CLINIC-NORTH.EU",
+    "subject": "Thursday is wrong by an hour",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:10:00+02:00"
+  },
+  {
+    "id": "R-41540",
+    "receivedAt": "2026-09-17T05:45:00+02:00",
+    "reporter": "kasia.falk@metro-lund.se",
+    "subject": "Off by 1h",
+    "source": "boards-fw",
+    "product": "tram-3",
+    "meta": {},
+    "body": "Departure boards on line 4 show every tram an hour late. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:10:00+02:00"
+  },
+  {
+    "id": "R-41541",
+    "receivedAt": "2026-09-17T05:45:00+02:00",
+    "reporter": "eva.reed@brightwell.org",
+    "subject": "times are wrong!!",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:11:00+02:00"
+  },
+  {
+    "id": "R-41542",
+    "receivedAt": "2026-09-17T05:45:00+02:00",
+    "reporter": "ana.lis@zorza-care.pl",
+    "subject": "Wrong times showing",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:11:00+02:00"
+  },
+  {
+    "id": "R-41543",
+    "receivedAt": "2026-09-17T05:45:00+02:00",
+    "reporter": "marek.nowak@casa-sol.es",
+    "subject": "Off by 1h",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:11:00+02:00"
+  },
+  {
+    "id": "R-41544",
+    "receivedAt": "2026-09-17T05:46:00+02:00",
+    "reporter": "marek.reed@clinic-north.eu",
+    "subject": "Off by 1h",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:11:00+02:00"
+  },
+  {
+    "id": "R-41545",
+    "receivedAt": "2026-09-17T05:46:00+02:00",
+    "reporter": "priya.baker@zorza-care.pl",
+    "subject": "URGENT times wrong",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "My Thursday shifts have moved by an hour. Screen showed E-UI-31 before it reloaded. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:11:00+02:00"
+  },
+  {
+    "id": "R-41546",
+    "receivedAt": "2026-09-17T05:46:00+02:00",
+    "reporter": "mira.park@brightwell.org",
+    "subject": "times are wrong!!",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:12:00+02:00"
+  },
+  {
+    "id": "R-41547",
+    "receivedAt": "2026-09-17T05:46:00+02:00",
+    "reporter": "kasia.vik@zorza-care.pl",
+    "subject": "Off by 1h",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. Screen showed E-UI-31 before it reloaded. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:12:00+02:00"
+  },
+  {
+    "id": "R-41548",
+    "receivedAt": "2026-09-17T05:47:00+02:00",
+    "reporter": "Priya.hart@metro-lund.se",
+    "subject": "everything is an hour off",
+    "source": "boards-fw",
+    "product": "tram-3",
+    "meta": {},
+    "body": "Boards say next tram in 61 minutes, it is here now. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:12:00+02:00"
+  },
+  {
+    "id": "R-41549",
+    "receivedAt": "2026-09-17T05:47:00+02:00",
+    "reporter": "priya.falk+work@metro-lund.se",
+    "subject": "Thursday is wrong by an hour",
+    "source": "boards-fw",
+    "product": "tram-3",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Boards say next tram in 61 minutes, it is here now.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:12:00+02:00"
+  },
+  {
+    "id": "R-41550",
+    "receivedAt": "2026-09-17T05:47:00+02:00",
+    "reporter": "omar.stone@clinic-north.eu",
+    "subject": "everything is an hour off",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:13:00+02:00"
+  },
+  {
+    "id": "R-41551",
+    "receivedAt": "2026-09-17T05:48:00+02:00",
+    "reporter": "NOAH.HOLM@CLINIC-NORTH.EU",
+    "subject": "Wrong times since last night",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:13:00+02:00"
+  },
+  {
+    "id": "R-41552",
+    "receivedAt": "2026-09-17T05:49:00+02:00",
+    "reporter": "Ilona.nowak@zorza-care.pl",
+    "subject": "Wrong times since last night",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:13:00+02:00"
+  },
+  {
+    "id": "R-41553",
+    "receivedAt": "2026-09-17T05:50:00+02:00",
+    "reporter": "OMAR.NOWAK@CLINIC-NORTH.EU",
+    "subject": "URGENT times wrong",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:13:00+02:00"
+  },
+  {
+    "id": "R-41554",
+    "receivedAt": "2026-09-17T05:50:00+02:00",
+    "reporter": "ilona.moss@zorza-care.pl",
+    "subject": "times are wrong!!",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:13:00+02:00"
+  },
+  {
+    "id": "R-41555",
+    "receivedAt": "2026-09-17T05:51:00+02:00",
+    "reporter": "jonas.falk@tramvaj-ostrava.cz",
+    "subject": "Wrong times showing",
+    "source": "email",
+    "product": "tram-3",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Boards say next tram in 61 minutes, it is here now.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:13:00+02:00"
+  },
+  {
+    "id": "R-41556",
+    "receivedAt": "2026-09-17T05:51:00+02:00",
+    "reporter": "Ilona.shah@zorza-care.pl",
+    "subject": "Clock is wrong",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:14:00+02:00"
+  },
+  {
+    "id": "R-41557",
+    "receivedAt": "2026-09-17T05:52:00+02:00",
+    "reporter": "piotr.falk+shifts@tramvaj-ostrava.cz",
+    "subject": "URGENT times wrong",
+    "source": "boards-fw",
+    "product": "tram-3",
+    "meta": {},
+    "body": "Boards say next tram in 61 minutes, it is here now. Screen showed E-UI-31 before it reloaded. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:14:00+02:00"
+  },
+  {
+    "id": "R-41557",
+    "receivedAt": "2026-09-17T05:52:00+02:00",
+    "reporter": "piotr.falk+shifts@tramvaj-ostrava.cz",
+    "subject": "URGENT times wrong",
+    "source": "boards-fw",
+    "product": "tram-3",
+    "meta": {},
+    "body": "Boards say next tram in 61 minutes, it is here now. Screen showed E-UI-31 before it reloaded. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:14:00+02:00"
+  },
+  {
+    "id": "R-41558",
+    "receivedAt": "2026-09-17T05:52:00+02:00",
+    "reporter": "piotr.moss+shifts@casa-sol.es",
+    "subject": "everything is an hour off",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:14:00+02:00"
+  },
+  {
+    "id": "R-41559",
+    "receivedAt": "2026-09-17T05:53:00+02:00",
+    "reporter": "kasia.wolf@zorza-care.pl",
+    "subject": "everything is an hour off",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:14:00+02:00"
+  },
+  {
+    "id": "R-41560",
+    "receivedAt": "2026-09-17T05:53:00+02:00",
+    "reporter": "sven.vik@casa-sol.es",
+    "subject": "times are wrong!!",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:14:00+02:00"
+  },
+  {
+    "id": "R-41561",
+    "receivedAt": "2026-09-17T05:53:00+02:00",
+    "reporter": "sven.nowak+shifts@clinic-north.eu",
+    "subject": "Wrong times since last night",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "My Thursday shifts have moved by an hour. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:15:00+02:00"
+  },
+  {
+    "id": "R-41562",
+    "receivedAt": "2026-09-17T05:54:00+02:00",
+    "reporter": "marek.hart@tramvaj-ostrava.cz",
+    "subject": "Thursday is wrong by an hour",
+    "source": "boards-fw",
+    "product": "tram-3",
+    "meta": {},
+    "body": "Platform screens are one hour behind the timetable. Screen showed E-UI-31 before it reloaded. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:15:00+02:00"
+  },
+  {
+    "id": "R-41563",
+    "receivedAt": "2026-09-17T05:54:00+02:00",
+    "reporter": "sven.kowal@clinic-north.eu",
+    "subject": "everything is an hour off",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "My Thursday shifts have moved by an hour. First the app said E-NET-03 (offline). (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:15:00+02:00"
+  },
+  {
+    "id": "R-41564",
+    "receivedAt": "2026-09-17T05:54:00+02:00",
+    "reporter": "mira.holm+rota@zorza-care.pl",
+    "subject": "Times moved by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:15:00+02:00"
+  },
+  {
+    "id": "R-41565",
+    "receivedAt": "2026-09-17T05:55:00+02:00",
+    "reporter": "Mira.kowal@brightwell.org",
+    "subject": "Wrong times since last night",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:15:00+02:00"
+  },
+  {
+    "id": "R-41566",
+    "receivedAt": "2026-09-17T05:55:00+02:00",
+    "reporter": "Ana.diaz@brightwell.org",
+    "subject": "Thursday is wrong by an hour",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:16:00+02:00"
+  },
+  {
+    "id": "R-41567",
+    "receivedAt": "2026-09-17T05:56:00+02:00",
+    "reporter": "lea.holm@brightwell.org",
+    "subject": "Wrong times showing",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:16:00+02:00"
+  },
+  {
+    "id": "R-41568",
+    "receivedAt": "2026-09-17T05:56:00+02:00",
+    "reporter": "eva.diaz+rota@zorza-care.pl",
+    "subject": "Times moved by an hour",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:16:00+02:00"
+  },
+  {
+    "id": "R-41569",
+    "receivedAt": "2026-09-17T05:57:00+02:00",
+    "reporter": "ana.ek+rota@oak-lane-care.co.uk",
+    "subject": "Times moved by an hour",
+    "source": "email",
+    "product": "rota-6",
+    "meta": {},
+    "body": "Our home has the night shift listed twice since the update. App says error e-sync 04.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:16:00+02:00"
+  },
+  {
+    "id": "R-41570",
+    "receivedAt": "2026-09-17T05:57:00+02:00",
+    "reporter": "sven.falk@tramvaj-ostrava.cz",
+    "subject": "times are wrong!!",
+    "source": "boards-fw",
+    "product": "tram-3",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Boards say next tram in 61 minutes, it is here now. Screen showed E-UI-31 before it reloaded.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:16:00+02:00"
+  },
+  {
+    "id": "R-41571",
+    "receivedAt": "2026-09-17T05:58:00+02:00",
+    "reporter": "marek.moss@casa-sol.es",
+    "subject": "URGENT times wrong",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:17:00+02:00"
+  },
+  {
+    "id": "R-41572",
+    "receivedAt": "2026-09-17T05:58:00+02:00",
+    "reporter": "noah.kowal@casa-sol.es",
+    "subject": "Clock is wrong",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:17:00+02:00"
+  },
+  {
+    "id": "R-41573",
+    "receivedAt": "2026-09-17T05:58:00+02:00",
+    "reporter": "piotr.park+shifts@casa-sol.es",
+    "subject": "times are wrong!!",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "My Thursday shifts have moved by an hour. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:17:00+02:00"
+  },
+  {
+    "id": "R-41574",
+    "receivedAt": "2026-09-17T05:59:00+02:00",
+    "reporter": "SVEN.BAKER@CASA-SOL.ES",
+    "subject": "URGENT times wrong",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:17:00+02:00"
+  },
+  {
+    "id": "R-41575",
+    "receivedAt": "2026-09-17T05:59:00+02:00",
+    "reporter": "jonas.lis@casa-sol.es",
+    "subject": "everything is an hour off",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:17:00+02:00"
+  },
+  {
+    "id": "R-41576",
+    "receivedAt": "2026-09-17T05:59:00+02:00",
+    "reporter": "jonas.park@clinic-north.eu",
+    "subject": "URGENT times wrong",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:18:00+02:00"
+  },
+  {
+    "id": "R-41577",
+    "receivedAt": "2026-09-17T05:59:00+02:00",
+    "reporter": "ana.kowal+shifts@brightwell.org",
+    "subject": "Wrong times showing",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:18:00+02:00"
+  },
+  {
+    "id": "R-41578",
+    "receivedAt": "2026-09-17T05:59:00+02:00",
+    "reporter": "jonas.lis@casa-sol.es",
+    "subject": "Schedule shifted by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:18:00+02:00"
+  },
+  {
+    "id": "R-41579",
+    "receivedAt": "2026-09-17T06:00:00+02:00",
+    "reporter": "piotr.lis+shifts@clinic-north.eu",
+    "subject": "Schedule shifted by an hour",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:18:00+02:00"
+  },
+  {
+    "id": "R-41580",
+    "receivedAt": "2026-09-17T06:00:00+02:00",
+    "reporter": "jonas.vik@casa-sol.es",
+    "subject": "Wrong times since last night",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned. Screen showed E-UI-31 before it reloaded.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:18:00+02:00"
+  },
+  {
+    "id": "R-41581",
+    "receivedAt": "2026-09-17T06:00:00+02:00",
+    "reporter": "mira.wolf@zorza-care.pl",
+    "subject": "Schedule shifted by an hour",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:19:00+02:00"
+  },
+  {
+    "id": "R-41582",
+    "receivedAt": "2026-09-17T06:00:00+02:00",
+    "reporter": "marek.kowal@casa-sol.es",
+    "subject": "Clock is wrong",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:19:00+02:00"
+  },
+  {
+    "id": "R-41583",
+    "receivedAt": "2026-09-17T06:00:00+02:00",
+    "reporter": "tom.shah+work@casa-sol.es",
+    "subject": "Off by 1h",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:19:00+02:00"
+  },
+  {
+    "id": "R-41584",
+    "receivedAt": "2026-09-17T06:00:00+02:00",
+    "reporter": "Eva.ruiz@brightwell.org",
+    "subject": "Off by 1h",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:19:00+02:00"
+  },
+  {
+    "id": "R-41585",
+    "receivedAt": "2026-09-17T06:00:00+02:00",
+    "reporter": "Marek.holm@clinic-north.eu",
+    "subject": "everything is an hour off",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "My Thursday shifts have moved by an hour. Screen showed E-UI-31 before it reloaded. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:19:00+02:00"
+  },
+  {
+    "id": "R-41586",
+    "receivedAt": "2026-09-17T06:01:00+02:00",
+    "reporter": "kasia.kowal@brightwell.org",
+    "subject": "everything is an hour off",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "My Thursday shifts have moved by an hour. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:20:00+02:00"
+  },
+  {
+    "id": "R-41587",
+    "receivedAt": "2026-09-17T06:01:00+02:00",
+    "reporter": "kasia.hart@oak-lane-care.co.uk",
+    "subject": "URGENT times wrong",
+    "source": "email",
+    "product": "rota-6",
+    "meta": {
+      "errorCode": "E-SYNC-04"
+    },
+    "body": "Two copies of the night rota, one hour apart. Which one is real?",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:20:00+02:00"
+  },
+  {
+    "id": "R-41588",
+    "receivedAt": "2026-09-17T06:01:00+02:00",
+    "reporter": "priya.kowal+work@brightwell.org",
+    "subject": "Wrong times showing",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:20:00+02:00"
+  },
+  {
+    "id": "R-41589",
+    "receivedAt": "2026-09-17T06:02:00+02:00",
+    "reporter": "Ilona.reed@brightwell.org",
+    "subject": "times are wrong!!",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:20:00+02:00"
+  },
+  {
+    "id": "R-41590",
+    "receivedAt": "2026-09-17T06:02:00+02:00",
+    "reporter": "noah.park@casa-sol.es",
+    "subject": "Thursday is wrong by an hour",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:20:00+02:00"
+  },
+  {
+    "id": "R-41591",
+    "receivedAt": "2026-09-17T06:03:00+02:00",
+    "reporter": "ilona.shah@zorza-care.pl",
+    "subject": "Thursday is wrong by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:21:00+02:00"
+  },
+  {
+    "id": "R-41592",
+    "receivedAt": "2026-09-17T06:03:00+02:00",
+    "reporter": "LEA.VIK@BRIGHTWELL.ORG",
+    "subject": "URGENT times wrong",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "My Thursday shifts have moved by an hour. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:21:00+02:00"
+  },
+  {
+    "id": "R-41593",
+    "receivedAt": "2026-09-17T06:03:00+02:00",
+    "reporter": "Noah.hart@lindholm-hus.se",
+    "subject": "Clock is wrong",
+    "source": "phone",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Phone, typed by the desk: a shift shows up twice, an hour apart. App says error e-sync 04.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:21:00+02:00"
+  },
+  {
+    "id": "R-41594",
+    "receivedAt": "2026-09-17T06:04:00+02:00",
+    "reporter": "Ilona.wolf@brightwell.org",
+    "subject": "times are wrong!!",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:21:00+02:00"
+  },
+  {
+    "id": "R-41595",
+    "receivedAt": "2026-09-17T06:04:00+02:00",
+    "reporter": "noah.reed@clinic-north.eu",
+    "subject": "times are wrong!!",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "My Thursday shifts have moved by an hour. First the app said E-NET-03 (offline). App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:22:00+02:00"
+  },
+  {
+    "id": "R-41596",
+    "receivedAt": "2026-09-17T06:04:00+02:00",
+    "reporter": "Noah.holm@clinic-north.eu",
+    "subject": "Wrong times showing",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:22:00+02:00"
+  },
+  {
+    "id": "R-41597",
+    "receivedAt": "2026-09-17T06:04:00+02:00",
+    "reporter": "piotr.wolf@clinic-north.eu",
+    "subject": "Wrong times since last night",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:22:00+02:00"
+  },
+  {
+    "id": "R-41598",
+    "receivedAt": "2026-09-17T06:05:00+02:00",
+    "reporter": "noah.vik+shifts@clinic-north.eu",
+    "subject": "Off by 1h",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. Screen showed E-UI-31 before it reloaded. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:22:00+02:00"
+  },
+  {
+    "id": "R-41599",
+    "receivedAt": "2026-09-17T06:06:00+02:00",
+    "reporter": "ANA.VIK@ZORZA-CARE.PL",
+    "subject": "Schedule shifted by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. First the app said E-NET-03 (offline). (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:23:00+02:00"
+  },
+  {
+    "id": "R-41600",
+    "receivedAt": "2026-09-17T06:06:00+02:00",
+    "reporter": "omar.berg@casa-sol.es",
+    "subject": "Off by 1h",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:23:00+02:00"
+  },
+  {
+    "id": "R-41601",
+    "receivedAt": "2026-09-17T06:08:00+02:00",
+    "reporter": "marek.reed@clinic-north.eu",
+    "subject": "URGENT times wrong",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:23:00+02:00"
+  },
+  {
+    "id": "R-41602",
+    "receivedAt": "2026-09-17T06:08:00+02:00",
+    "reporter": "piotr.holm@clinic-north.eu",
+    "subject": "everything is an hour off",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:23:00+02:00"
+  },
+  {
+    "id": "R-41603",
+    "receivedAt": "2026-09-17T06:08:00+02:00",
+    "reporter": "Ana.ek@oak-lane-care.co.uk",
+    "subject": "Thursday is wrong by an hour",
+    "source": "email",
+    "product": "rota-6",
+    "meta": {},
+    "body": "Two copies of the night rota, one hour apart. Which one is real? Screen showed E-UI-31 before it reloaded. App says error e-sync 04.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:23:00+02:00"
+  },
+  {
+    "id": "R-41604",
+    "receivedAt": "2026-09-17T06:08:00+02:00",
+    "reporter": "eva.hart@oak-lane-care.co.uk",
+    "subject": "Wrong times showing",
+    "source": "email",
+    "product": "rota-6",
+    "meta": {
+      "errorCode": "E-SYNC-04"
+    },
+    "body": "Night shift tonight shows twice, once with nobody on it. Screen showed E-UI-31 before it reloaded.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:23:00+02:00"
+  },
+  {
+    "id": "R-41605",
+    "receivedAt": "2026-09-17T06:08:00+02:00",
+    "reporter": "tom.lis@clinic-north.eu",
+    "subject": "Schedule shifted by an hour",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "My Thursday shifts have moved by an hour.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:24:00+02:00"
+  },
+  {
+    "id": "R-41606",
+    "receivedAt": "2026-09-17T06:08:00+02:00",
+    "reporter": "mira.nowak@brightwell.org",
+    "subject": "Schedule shifted by an hour",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:24:00+02:00"
+  },
+  {
+    "id": "R-41608",
+    "receivedAt": "2026-09-17T06:08:00+02:00",
+    "reporter": "marek.vik+shifts@clinic-north.eu",
+    "subject": "Times moved by an hour",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:24:00+02:00"
+  },
+  {
+    "id": "R-41608",
+    "receivedAt": "2026-09-17T06:08:00+02:00",
+    "reporter": "marek.vik+shifts@clinic-north.eu",
+    "subject": "Times moved by an hour",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:24:00+02:00"
+  },
+  {
+    "id": "R-41609",
+    "receivedAt": "2026-09-17T06:09:00+02:00",
+    "reporter": "ana.berg@zorza-care.pl",
+    "subject": "Clock is wrong",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:24:00+02:00"
+  },
+  {
+    "id": "R-41610",
+    "receivedAt": "2026-09-17T06:09:00+02:00",
+    "reporter": "Ilona.hart@metro-lund.se",
+    "subject": "Off by 1h",
+    "source": "boards-fw",
+    "product": "tram-3",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Platform screens are one hour behind the timetable.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:24:00+02:00"
+  },
+  {
+    "id": "R-41611",
+    "receivedAt": "2026-09-17T06:09:00+02:00",
+    "reporter": "jonas.stone+shifts@clinic-north.eu",
+    "subject": "Schedule shifted by an hour",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "The whole team sees Thursday one hour later than planned.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:25:00+02:00"
+  },
+  {
+    "id": "R-41612",
+    "receivedAt": "2026-09-17T06:10:00+02:00",
+    "reporter": "Jonas.diaz@clinic-north.eu",
+    "subject": "Wrong times since last night",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "Every shift for today starts an hour late in the app. Screen showed E-UI-31 before it reloaded. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:25:00+02:00"
+  },
+  {
+    "id": "R-41613",
+    "receivedAt": "2026-09-17T06:10:00+02:00",
+    "reporter": "jonas.reed+shifts@casa-sol.es",
+    "subject": "Wrong times showing",
+    "source": "email",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:25:00+02:00"
+  },
+  {
+    "id": "R-41614",
+    "receivedAt": "2026-09-17T06:10:00+02:00",
+    "reporter": "omar.park@clinic-north.eu",
+    "subject": "everything is an hour off",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app. First the app said E-NET-03 (offline).",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:25:00+02:00"
+  },
+  {
+    "id": "R-41615",
+    "receivedAt": "2026-09-17T06:10:00+02:00",
+    "reporter": "ana.baker@zorza-care.pl",
+    "subject": "Wrong times showing",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:27:00+02:00"
+  },
+  {
+    "id": "R-41616",
+    "receivedAt": "2026-09-17T06:11:00+02:00",
+    "reporter": "eva.berg@brightwell.org",
+    "subject": "times are wrong!!",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:27:00+02:00"
+  },
+  {
+    "id": "R-41617",
+    "receivedAt": "2026-09-17T06:11:00+02:00",
+    "reporter": "piotr.falk@tramvaj-ostrava.cz",
+    "subject": "times are wrong!!",
+    "source": "email",
+    "product": "tram-3",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Departure boards on line 4 show every tram an hour late.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:27:00+02:00"
+  },
+  {
+    "id": "R-41618",
+    "receivedAt": "2026-09-17T06:11:00+02:00",
+    "reporter": "lea.reed+rota@brightwell.org",
+    "subject": "Clock is wrong",
+    "source": "sched-app",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. (E-TZ-114)",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:27:00+02:00"
+  },
+  {
+    "id": "R-41619",
+    "receivedAt": "2026-09-17T06:12:00+02:00",
+    "reporter": "tom.stone@casa-sol.es",
+    "subject": "times are wrong!!",
+    "source": "widget",
+    "product": "sched-prod",
+    "meta": {},
+    "body": "The whole team sees Thursday one hour later than planned. Screen showed E-UI-31 before it reloaded. App says error e-tz 114.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:27:00+02:00"
+  },
+  {
+    "id": "R-41620",
+    "receivedAt": "2026-09-17T06:13:00+02:00",
+    "reporter": "ana.diaz@brightwell.org",
+    "subject": "Thursday is wrong by an hour",
+    "source": "sched-web",
+    "product": "sched-prod",
+    "meta": {
+      "errorCode": "E-TZ-114"
+    },
+    "body": "Every shift for today starts an hour late in the app.",
+    "mergedInto": 4471,
+    "mergedBy": "tove",
+    "mergedAt": "2026-09-17T06:27:00+02:00"
+  }
+]
