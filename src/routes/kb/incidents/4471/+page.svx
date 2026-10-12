@@ -1,0 +1,38 @@
+---
+layout: runbook
+title: '#4471 · times moved by an hour overnight'
+owner: tove
+status: closed
+reviewed: 2026-09-17
+---
+
+<script>
+  import ClusterTable from '#lib/kb/ClusterTable.svelte';
+  import QueueTimeline from '#lib/kb/QueueTimeline.svelte';
+  import Callout from '#lib/kb/Callout.svelte';
+</script>
+
+Night of Wednesday 16 September. The first report landed at 03:19: somebody on `sched-prod`
+saying their Thursday shifts had moved by an hour. After that they didn't stop.
+By the time the queue went quiet the desk had **412 reports**.
+
+**All 412 are one issue.** Tove merged them into #4471 under the
+[triage rule](/kb/triage/dedupe), one at a time. Engineering shipped the fix, change #29,
+at 06:15, and the queue stopped growing.
+
+<Callout>
+Closed. One issue, one fix, no follow-ups.
+</Callout>
+
+## What was merged
+
+<ClusterTable ticket={4471} />
+
+## The night
+
+<QueueTimeline ticket={4471} />
+
+## Lessons
+
+- A big night is mostly one bug reported many times. Merge early, count once.
+- Write the page the same morning, while the queue is still in your head.

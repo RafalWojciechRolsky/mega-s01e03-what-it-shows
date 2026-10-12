@@ -1,0 +1,41 @@
+---
+layout: runbook
+title: '#4471 · three issues were closed as one'
+owner: rafal
+status: open
+reviewed: 2026-10-12
+signature: v1.eyJzdWIiOiIxMjYiLCJhdWQiOiJjaGFsbGVuZ2U6d2hhdC1pdC1zaG93cyIsImlhdCI6MTc5MTgwNDMzOCwiZXhwIjoxNzkxODkwNzM4fQ.JjMS-KZY8r9MQNJSQNhq39zMhAiXMWEbKBa9PVzI_r4
+---
+
+<script>
+  import ClusterTable from '#lib/kb/ClusterTable.svelte';
+  import QueueTimeline from '#lib/kb/QueueTimeline.svelte';
+  import Callout from '#lib/kb/Callout.svelte';
+  import RenderStamp from '#lib/kb/RenderStamp.svelte';
+</script>
+
+The desk merged 412 reports into #4471 on the [subject rule](/kb/triage/dedupe) and closed it as one issue. Placed by where each reporter's tenant runs and by the server code each report carries, the same 412 reports are **three issues**. One was fixed by change #29; the other two were closed with the ticket and never got one of their own.
+
+## What was really merged
+
+<ClusterTable ticket={4471} />
+
+## The night
+
+<QueueTimeline ticket={4471} />
+
+## The two that were closed without a fix
+
+- **tram-3 · E-TZ-114** — 44 reports, 26 people, 03:33 → 06:11. Departure boards. Change #29 touched `sched-prod` only.
+- **rota-6 · E-SYNC-04** — 19 reports, 9 people, 03:27 → 06:08. Care-home rotas. Change #29 touched `sched-prod` only.
+
+<Callout kind="warn">
+Both issues were merged into #4471 and closed with it. Reports were still arriving at 06:11 and 06:08, after change #29 shipped. No follow-ups were opened — follow-up tickets are filed at [issue 2](https://github.com/RafalWojciechRolsky/mega-s01e03-what-it-shows/issues/2) and [issue 3](https://github.com/RafalWojciechRolsky/mega-s01e03-what-it-shows/issues/3).
+</Callout>
+
+## Notes
+
+- The desk's counts came from intake tags (`sched-prod` 358 · `tram-3` 41 · `rota-6` 13). By place the split is **349 · 44 · 19**; the tags and the places disagree on 9 reports.
+- The issue #4471 was really about is `sched-prod` · E-TZ-114: 349 reports, 206 people, 03:12 → 06:13 — [issue 1](https://github.com/RafalWojciechRolsky/mega-s01e03-what-it-shows/issues/1) in the follow-up repo.
+
+<RenderStamp {signature} />
